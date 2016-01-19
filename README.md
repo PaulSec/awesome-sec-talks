@@ -25,7 +25,7 @@ Conference | Location | Date
 |[Passwords 2015](https://www.youtube.com/playlist?list=PLdIqs92nsIzQvvbTiWLLjZOVE7jPBDomw) | Cambridge, UK | Dec 7-9, 2015 |
 |[DefCamp 2015](https://www.youtube.com/playlist?list=PLnwq8gv9MEKj6p8VtgCwFdh8uthLp75M3) | Bucharest, Romania | Nov 19-20, 2015 |
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
-|[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, NC, USA | Nov 14, 2015 |
+|[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, SC, USA | Nov 14, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
