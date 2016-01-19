@@ -63,6 +63,7 @@ Conference | Location | Date
 |[BSides SLC 2015](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos) | Salt Lake City, UT, USA | Mar 21, 2015 |
 |[Carolina Con 2015](https://www.youtube.com/playlist?list=PLdh5UOMgeDvkWYaZcUrFagUY2zUtfMafR) | Raleigh, NC, USA | Mar 4, 2015 |
 |[BSides San Francisco 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9EMEAOlWO40tv4A-2JERPb) | San Francisco, CA, USA | Feb 28, 2015 |
+|[SecAppDev 2015)(https://www.youtube.com/playlist?list=PLLVBUs9CnYAcaDxfgdjhdHuI5K1CERGhu) | Leuven, Belgium | Feb 23 - 27, 2015 |
 |[DEFCON/OWASP Lucknow InfoSec Conference](https://www.youtube.com/playlist?list=PLXoRjc8jI5RQ5Rr--h0BnuYh17fuQyJwv) | Lucknow, India | Feb 22, 2015 |
 |[BSides Tampa 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_by2u3gZUlcPPU0IQtvRTS) | Tampa Bay, FL, USA | Feb 21, 2015 |
 |[NullCon Goa 2015](https://www.youtube.com/user/nullcon/search?query=2015) | Goa, India | Feb 4-5, 2015 |
