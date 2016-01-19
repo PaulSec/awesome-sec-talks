@@ -14,7 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-|[Conf](link to youtube) | Location | Dates |
+|[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
 
 ## 2015
 
