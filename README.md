@@ -43,6 +43,7 @@ Conference | Location | Date
 |[USENIX Security 2015](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfeRixThHzgGYj1wu80JOh3) | Washington, D.C., USA | Aug 12-14, 2015 |
 |[DEF CON 23](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBuHqVvDzPoWxznYYmyx5UX) | Las Vegas, NV, USA | Aug 6-9, 2015 |
 |[Black Hat 2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7) | Las Vegas, NV, USA | Aug 1-6, 2015 |
+|[BSidesLV 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_wpMC42BKPCknT-JhnZGos) | Las Vegas, NV, USA | Aug 4-5, 2015 |
 |[BSides Detroit 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm97gwg__BfWirG5NnkAAENL) | Detroit, MI, USA | July 16-18, 2015 |
 |[SteelCon 2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) | Sheffield, UK | Jul 3-5, 2015 |
 |[BSides Cleveland 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm87UHyX3fVU_NnSRjM8CUUw) | Cleveland, OH, USA | Jun 20, 2015 |
