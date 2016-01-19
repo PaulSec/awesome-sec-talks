@@ -49,6 +49,7 @@ Conference | Location | Date
 |[CircleCityCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9TV35bUYvhjUpdAR8iPT5R) | Indianapolis, IN, USA | Jun 12-14, 2015 |
 |[ShowMeCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9zsNKfwujM4JgEk1wOc44m) | St. Charles, MO, USA | Jun 8-9, 2015 |
 |[BSides London 2015](https://www.youtube.com/playlist?list=PLcrUMxzVpi6waVMFpbc2MFrbE5uB_EPJU) | London, UK | Jun 3, 2015 |
+|[44CON 2015](https://vimeo.com/ondemand/44conlondon2015/142249673) | London, UK | Sep 7-11, 2015 |
 |[HITB AMS SecConfg 2015](https://www.youtube.com/playlist?list=PLJ7_KHVHtAm9YhIzWa_2A61dmFv8cTDO2) | Amsterdam, Netherlands | May 26-29, 2015 |
 |[NorthSec Montreal 2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) | Montreal, Canada | May 19-22, 2015 |
 |[OWASP AppSec EU 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) | Amsterdam, Netherlands | May 19-22, 2015 |
