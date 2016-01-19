@@ -14,7 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-|[Conf](link to youtube) | Location | Dates |
+|[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
 
 ## 2015
 
@@ -57,7 +57,7 @@ Conference | Location | Date
 |[SAS Global Forum 2015](https://www.youtube.com/playlist?list=PLREOJpYTa6C5Mia5gJawJyx0WnEPvaudE) | Dallas, TX, USA | Apr 26-29, 2015 |
 |[RSA 2015 (Keynotes)](https://www.youtube.com/playlist?list=PLeUGLKUYzh_hr2_j0RNVSD6wZQIhdfoGe) | San Francisco, CA, USA | Apr 20-24, 2015 |
 |[SyScan 2015](https://www.youtube.com/playlist?list=PLKpjtdatAwij7ajFwQSkmxFm43N9U_T3E) | Singapore, Singapore | Mar 21-27, 2015 |
-|[BSides Orlando](https://www.youtube.com/playlist?list=PLu1bAtIWt2VbXiy4kNWdtVkWiRWvPoeD6) | Orlando, FL, USA | Apr 11, 2015 |
+|[BSides Orlando](https://www.youtube.com/playlist?list=PLu1bAtIWt2VbXiy4kNWdtVkWiRWvPoeD6) | Orlando, FL, USA | Apr 11-12, 2015 |
 |[Infiltrate 2015](https://vimeo.com/user18478112/videos/sort:date) | Miami Beach, FL, USA | Apr 2015 |
 |[BSides SLC 2015](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos) | Salt Lake City, UT, USA | Mar 21, 2015 |
 |[Carolina Con 2015](https://www.youtube.com/playlist?list=PLdh5UOMgeDvkWYaZcUrFagUY2zUtfMafR) | Raleigh, NC, USA | Mar 4, 2015 |
