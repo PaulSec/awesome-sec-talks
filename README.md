@@ -77,6 +77,12 @@ Conference | Location | Date
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
 |[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29 2015 |
 
+## 2015
+
+Conference | Location | Date
+--- | --- | ---
+|[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
+
 ## Other Video Caches
 
 * [IronGeek](http://www.irongeek.com/)
