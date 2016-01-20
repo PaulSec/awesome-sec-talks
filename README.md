@@ -22,6 +22,7 @@ Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2015 (32C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) | Hamburg, Germany | Dec 27-30, 2015 |
 |[No Con Name 2015 [Spanish]](https://vimeo.com/noconname/videos) | Barcelona, Spain | Dec 12, 2015 |
+|[Post-Snowden Cryptography 2015](https://psc2015videos.projectbullrun.org/) | Brussels, Belgium | Dec 9-10, 2015|
 |[Passwords 2015](https://www.youtube.com/playlist?list=PLdIqs92nsIzQvvbTiWLLjZOVE7jPBDomw) | Cambridge, UK | Dec 7-9, 2015 |
 |[DefCamp 2015](https://www.youtube.com/playlist?list=PLnwq8gv9MEKj6p8VtgCwFdh8uthLp75M3) | Bucharest, Romania | Nov 19-20, 2015 |
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
@@ -53,9 +54,11 @@ Conference | Location | Date
 |[ShowMeCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9zsNKfwujM4JgEk1wOc44m) | St. Charles, MO, USA | Jun 8-9, 2015 |
 |[BSides London 2015](https://www.youtube.com/playlist?list=PLcrUMxzVpi6waVMFpbc2MFrbE5uB_EPJU) | London, UK | Jun 3, 2015 |
 |[44CON 2015](https://vimeo.com/ondemand/44conlondon2015/142249673) | London, UK | Sep 7-11, 2015 |
+|[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29, 2015 |
 |[HITB AMS SecConfg 2015](https://www.youtube.com/playlist?list=PLJ7_KHVHtAm9YhIzWa_2A61dmFv8cTDO2) | Amsterdam, Netherlands | May 26-29, 2015 |
 |[NorthSec Montreal 2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) | Montreal, Canada | May 19-22, 2015 |
 |[OWASP AppSec EU 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) | Amsterdam, Netherlands | May 19-22, 2015 |
+|[Security in Times of Surveillance 2015](https://projectbullrun.org/surveillance/2015/video-2015.html) | Eindhoven, Netherlands | May 8, 2015 |
 |[Rooted CON 2015 [Spanish]](https://www.youtube.com/playlist?list=PLUOjNfYgonUsE3qq9AyqlFL1sXzZXFrtg) | Madrid, Spain | May 5-7, 2015 |
 |[SAS Global Forum 2015](https://www.youtube.com/playlist?list=PLREOJpYTa6C5Mia5gJawJyx0WnEPvaudE) | Dallas, TX, USA | Apr 26-29, 2015 |
 |[RSA 2015 (Keynotes)](https://www.youtube.com/playlist?list=PLeUGLKUYzh_hr2_j0RNVSD6wZQIhdfoGe) | San Francisco, CA, USA | Apr 20-24, 2015 |
@@ -75,7 +78,6 @@ Conference | Location | Date
 |[BSides Columbus 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-L0fEgmLzf3Rmyt45M5qw0) | Columbus, OH, USA | Jan 19, 2015 |
 |[ShmooCon 2015](https://www.youtube.com/playlist?list=PLStO1VqVBvmHyVc71QLOCBKugWQyyM7WE) | Washington D.C., USA | Jan 16-18, 2015 |
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
-|[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29 2015 |
 
 ## 2014
 
