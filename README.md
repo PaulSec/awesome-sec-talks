@@ -58,6 +58,7 @@ Conference | Location | Date
 |[Rooted CON 2015 [Spanish]](https://www.youtube.com/playlist?list=PLUOjNfYgonUsE3qq9AyqlFL1sXzZXFrtg) | Madrid, Spain | May 5-7, 2015 |
 |[SAS Global Forum 2015](https://www.youtube.com/playlist?list=PLREOJpYTa6C5Mia5gJawJyx0WnEPvaudE) | Dallas, TX, USA | Apr 26-29, 2015 |
 |[RSA 2015 (Keynotes)](https://www.youtube.com/playlist?list=PLeUGLKUYzh_hr2_j0RNVSD6wZQIhdfoGe) | San Francisco, CA, USA | Apr 20-24, 2015 |
+|[Positive Hack Days V](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzlKjae0e_-lIktpPeTRR7e) | Moscow, Russia | May 26-27, 2015 |
 |[SyScan 2015](https://www.youtube.com/playlist?list=PLKpjtdatAwij7ajFwQSkmxFm43N9U_T3E) | Singapore, Singapore | Mar 21-27, 2015 |
 |[BSides Orlando](https://www.youtube.com/playlist?list=PLu1bAtIWt2VbXiy4kNWdtVkWiRWvPoeD6) | Orlando, FL, USA | Apr 11-12, 2015 |
 |[Infiltrate 2015](https://vimeo.com/user18478112/videos/sort:date) | Miami Beach, FL, USA | Apr 2015 |
