@@ -38,6 +38,7 @@ Conference | Location | Date
 |[DerbyCon 5.0](https://www.youtube.com/playlist?list=PLn8ut0t_rVT89PJEnacaOYrmRJQc0TeiQ) | Louisville, KY, USA | Sep 23-27, 2015 |
 |[OWASP AppSec USA 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU) | San Francisco, CA, USA | Sep 22-25, 2015 |
 |[BSides Augusta 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_tRDcxhP9vldVoJhTkwdnt) | Augusta, GA, USA | Sep 12, 2015 |
+|[BalCCon 2015 (2k15)](https://www.youtube.com/watch?v=PHC-W7ttzl4&list=PLyHRd2YK1T4ypek_YcnTux1xC_Pu9JZzF) | Novi Sad, Vojvodina, Serbia |Sep 11-13, 2015 |
 |[Crypto 2015](https://www.youtube.com/playlist?list=PLeeS-3Ml-rpoNWewUnljPP7QN4USn4c7H) | Santa Barbara, CA, USA | Aug 16-20, 2015 |
 |[Chaos Communication Camp 2015 [German]](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2ZrTckdtMUV4no50_-b9OkL) | Zehdenick, Germany | Aug 13-17, 2015 |
 |[USENIX Security 2015](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfeRixThHzgGYj1wu80JOh3) | Washington, D.C., USA | Aug 12-14, 2015 |
