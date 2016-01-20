@@ -45,6 +45,7 @@ Conference | Location | Date
 |[DEF CON 23](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBuHqVvDzPoWxznYYmyx5UX) | Las Vegas, NV, USA | Aug 6-9, 2015 |
 |[Black Hat 2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7) | Las Vegas, NV, USA | Aug 1-6, 2015 |
 |[BSidesLV 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_wpMC42BKPCknT-JhnZGos) | Las Vegas, NV, USA | Aug 4-5, 2015 |
+|[BSidesCincy 2015](https://www.youtube.com/playlist?list=PLFvh_k-n27CnvMIYBLGAjQ7ekaC10t9y4) | Cincinnati, OH-KY-IN, USA | July 25, 2015 |
 |[BSides Detroit 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm97gwg__BfWirG5NnkAAENL) | Detroit, MI, USA | July 16-18, 2015 |
 |[SteelCon 2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) | Sheffield, UK | Jul 3-5, 2015 |
 |[BSides Cleveland 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm87UHyX3fVU_NnSRjM8CUUw) | Cleveland, OH, USA | Jun 20, 2015 |
@@ -75,6 +76,12 @@ Conference | Location | Date
 |[ShmooCon 2015](https://www.youtube.com/playlist?list=PLStO1VqVBvmHyVc71QLOCBKugWQyyM7WE) | Washington D.C., USA | Jan 16-18, 2015 |
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
 |[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29 2015 |
+
+## 2014
+
+Conference | Location | Date
+--- | --- | ---
+|[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 
 ## Other Video Caches
 
