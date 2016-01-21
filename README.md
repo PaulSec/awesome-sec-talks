@@ -60,7 +60,8 @@ Conference | Location | Date
 |[NorthSec Montreal 2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) | Montreal, Canada | May 19-22, 2015 |
 |[OWASP AppSec EU 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) | Amsterdam, Netherlands | May 19-22, 2015 |
 |[Security in Times of Surveillance 2015](https://projectbullrun.org/surveillance/2015/video-2015.html) | Eindhoven, Netherlands | May 8, 2015 |
-|[Rooted CON 2015 [Spanish]](https://www.youtube.com/playlist?list=PLUOjNfYgonUsE3qq9AyqlFL1sXzZXFrtg) | Madrid, Spain | May 5-7, 2015 |
+|[Rooted CON 2015 [Spanish]](https://www.youtube.com/playlist?list=PLUOjNfYgonUsE3qq9AyqlFL1sXzZXFrtg) | Madrid, Spain | March 5-7, 2015 |
+|[Rooted CON 2015 [English]](https://www.youtube.com/playlist?list=PLUOjNfYgonUuTk1VXx8CgbzCYq6qOGvWf) | Madrid, Spain | March 5-7, 2015 |
 |[SAS Global Forum 2015](https://www.youtube.com/playlist?list=PLREOJpYTa6C5Mia5gJawJyx0WnEPvaudE) | Dallas, TX, USA | Apr 26-29, 2015 |
 |[RSA 2015 (Keynotes)](https://www.youtube.com/playlist?list=PLeUGLKUYzh_hr2_j0RNVSD6wZQIhdfoGe) | San Francisco, CA, USA | Apr 20-24, 2015 |
 |[Positive Hack Days V](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzlKjae0e_-lIktpPeTRR7e) | Moscow, Russia | May 26-27, 2015 |
