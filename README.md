@@ -76,6 +76,7 @@ Conference | Location | Date
 |[ShmooCon 2015](https://www.youtube.com/playlist?list=PLStO1VqVBvmHyVc71QLOCBKugWQyyM7WE) | Washington D.C., USA | Jan 16-18, 2015 |
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
 |[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29 2015 |
+|[Bsides Vancouver 2015](https://www.youtube.com/watch?v=QpYHiNElzZI&list=UUIvfe0KAXCjxIXWabrfn2tA&index=10) | Vancouver, Canada | March 17 2015 |
 
 ## 2014
 
