@@ -14,14 +14,15 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-|[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
+|[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
 
 ## 2015
 
 Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2015 (32C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) | Hamburg, Germany | Dec 27-30, 2015 |
+|[BSides Hamburg 2015](http://2015.bsideshh.org/content/post/recordingsarereleased/) | Hamburg, Germany | Dec 28, 2015 |
 |[No Con Name 2015 [Spanish]](https://vimeo.com/noconname/videos) | Barcelona, Spain | Dec 12, 2015 |
 |[Post-Snowden Cryptography 2015](https://psc2015videos.projectbullrun.org/) | Brussels, Belgium | Dec 9-10, 2015|
 |[Passwords 2015](https://www.youtube.com/playlist?list=PLdIqs92nsIzQvvbTiWLLjZOVE7jPBDomw) | Cambridge, UK | Dec 7-9, 2015 |
@@ -53,7 +54,6 @@ Conference | Location | Date
 |[BSides Detroit 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm97gwg__BfWirG5NnkAAENL) | Detroit, MI, USA | July 16-18, 2015 |
 |[SteelCon 2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) | Sheffield, UK | Jul 3-5, 2015 |
 |[BSides Cleveland 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm87UHyX3fVU_NnSRjM8CUUw) | Cleveland, OH, USA | Jun 20, 2015 |
-|[BSides Hamburg 2015](http://2015.bsideshh.org/content/post/recordingsarereleased/) | Hamburg, Germany | Dec 28, 2015 |
 |[CircleCityCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9TV35bUYvhjUpdAR8iPT5R) | Indianapolis, IN, USA | Jun 12-14, 2015 |
 |[ShowMeCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9zsNKfwujM4JgEk1wOc44m) | St. Charles, MO, USA | Jun 8-9, 2015 |
 |[BSides London 2015](https://www.youtube.com/playlist?list=PLcrUMxzVpi6waVMFpbc2MFrbE5uB_EPJU) | London, UK | Jun 3, 2015 |
