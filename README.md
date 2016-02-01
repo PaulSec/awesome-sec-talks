@@ -42,6 +42,7 @@ Conference | Location | Date
 |[Louisville Infosec 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm86xYFgU3fRB84vvii9oAh0) | Louisville, KY, USA | Sep. 28, 2015 |
 |[DerbyCon 5.0](https://www.youtube.com/playlist?list=PLn8ut0t_rVT89PJEnacaOYrmRJQc0TeiQ) | Louisville, KY, USA | Sep 23-27, 2015 |
 |[OWASP AppSec USA 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU) | San Francisco, CA, USA | Sep 22-25, 2015 |
+|[Cairo Security Camp 2015](https://www.youtube.com/playlist?list=PLEM-Gz73yUqWL97CHshZdVChxNXUpruDz) | Cairo, Egypt | Sep. 19-20, 2015 |
 |[OWASP EEE (Eastern European Event)](https://www.youtube.com/channel/UCzpfaWiZaT9_msL3jdY_FDw)| Eastern Europe, EU | All year 2015 |
 |[BSides Augusta 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_tRDcxhP9vldVoJhTkwdnt) | Augusta, GA, USA | Sep 12, 2015 |
 |[BalCCon 2015 (2k15)](https://www.youtube.com/watch?v=PHC-W7ttzl4&list=PLyHRd2YK1T4ypek_YcnTux1xC_Pu9JZzF) | Novi Sad, Vojvodina, Serbia |Sep 11-13, 2015 |
