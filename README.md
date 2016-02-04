@@ -33,6 +33,7 @@ Conference | Location | Date
 |[Grehack 2015](https://www.youtube.com/playlist?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF) | Grenoble, FR | Nov 15, 2015 |
 |[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, SC, USA | Nov 14, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
+|[Hackfest 2015](https://www.youtube.com/playlist?list=PLaXanmjyAPzE1IdtfIevH0CS7mofDkq2f) | Quebec city, Canada | Nov. 6/7, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
 |[SkyDogCon 2015](https://www.youtube.com/playlist?list=PLLEf-wPc7TyY6I8AtHvrSEAj3UNjRnpOZ) | Nashville, TN, USA | Oct 23-25, 2015 |
@@ -94,6 +95,7 @@ Conference | Location | Date
 --- | --- | ---
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, FR | Dec 3-5, 2014 |
+|[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
 
 ## Other Video Caches
 
