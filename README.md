@@ -16,6 +16,7 @@ Conference | Location | Date
 --- | --- | ---
 |[USENIX Enigma Conference 2016](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw) | San Francisco, CA | Jan 25-27, 2016 |
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
+|[Shmoocon 2016](https://archive.org/details/shmoocon-2016) | Washington, DC | Jan 15, 2016 |
 |[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
 
 ## 2015
