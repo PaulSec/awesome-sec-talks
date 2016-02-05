@@ -58,6 +58,7 @@ Conference | Location | Date
 |[BSides Detroit 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm97gwg__BfWirG5NnkAAENL) | Detroit, MI, USA | July 16-18, 2015 |
 |[SteelCon 2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) | Sheffield, UK | Jul 3-5, 2015 |
 |[BSides Cleveland 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm87UHyX3fVU_NnSRjM8CUUw) | Cleveland, OH, USA | Jun 20, 2015 |
+|[REcon 2015](https://recon.cx/2015/recordings/) | Montreal, Canada | Jun 19-21, 2015 |
 |[CircleCityCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9TV35bUYvhjUpdAR8iPT5R) | Indianapolis, IN, USA | Jun 12-14, 2015 |
 |[ShowMeCon 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9zsNKfwujM4JgEk1wOc44m) | St. Charles, MO, USA | Jun 8-9, 2015 |
 |[BSides London 2015](https://www.youtube.com/playlist?list=PLcrUMxzVpi6waVMFpbc2MFrbE5uB_EPJU) | London, UK | Jun 3, 2015 |
