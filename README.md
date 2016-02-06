@@ -86,7 +86,7 @@ Conference | Location | Date
 |[Cyber Threat Intelligence Summit 2015](https://www.youtube.com/playlist?list=PLfouvuAjspToHlyi9rnayB1WXFVmH037C) | Washington D.C., USA | Feb 2-9, 2015 |
 |[OWASP AppSec California 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-xWNB98Q2uLN7O8E91xJzK) | Santa Monica, CA, USA | Jan 26-28, 2015 |
 |[BSides Columbus 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-L0fEgmLzf3Rmyt45M5qw0) | Columbus, OH, USA | Jan 19, 2015 |
-|[ShmooCon 2015](https://www.youtube.com/playlist?list=PLStO1VqVBvmHyVc71QLOCBKugWQyyM7WE) | Washington D.C., USA | Jan 16-18, 2015 |
+|[ShmooCon 2015](https://www.youtube.com/playlist?list=PLrP-faxXRgggF2VVXMGYxmj2yeuV8003j) | Washington D.C., USA | Jan 16-18, 2015 |
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
 |[Bsides Vancouver 2015](https://www.youtube.com/watch?v=QpYHiNElzZI&list=UUIvfe0KAXCjxIXWabrfn2tA&index=10) | Vancouver, Canada | March 17 2015 |
 
