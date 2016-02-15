@@ -43,6 +43,7 @@ Conference | Location | Date
 |[Sector 2015](http://sector.ca/presentations) | Toronto, Canada | Oct 19-21, 2015 |
 |[CERT.pl Secure 2015](https://www.youtube.com/playlist?list=PLghf5UNZbzG0zLarfwpw4PxPTS0IWo8vB) | Warsaw, Poland | Oct 14, 2015 |
 |[HITB SecConf 2015](https://www.youtube.com/playlist?list=PLmv8T5-GONwSuEm2XTeIVi6toZ8stS6J2) | Singapore, Maylasia | Oct 13, 2015 |
+|[Hacktivity 2015](https://hacktivity.com/en/archives/hacktivity-20151/) | Budapest, Hungary | Oct 9-10, 2015 |
 |[Louisville Infosec 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm86xYFgU3fRB84vvii9oAh0) | Louisville, KY, USA | Sep. 28, 2015 |
 |[DerbyCon 5.0](https://www.youtube.com/playlist?list=PLn8ut0t_rVT89PJEnacaOYrmRJQc0TeiQ) | Louisville, KY, USA | Sep 23-27, 2015 |
 |[OWASP AppSec USA 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU) | San Francisco, CA, USA | Sep 22-25, 2015 |
