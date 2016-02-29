@@ -29,6 +29,7 @@ Conference | Location | Date
 |[No Con Name 2015 [Spanish]](https://vimeo.com/noconname/videos) | Barcelona, Spain | Dec 12, 2015 |
 |[Post-Snowden Cryptography 2015](https://psc2015videos.projectbullrun.org/) | Brussels, Belgium | Dec 9-10, 2015|
 |[Passwords 2015](https://www.youtube.com/playlist?list=PLdIqs92nsIzQvvbTiWLLjZOVE7jPBDomw) | Cambridge, UK | Dec 7-9, 2015 |
+|[ZeroNights 2015](https://www.youtube.com/playlist?list=PLHlFrzuFU1EU2vGbM2siqEGJ-_ogPPgoM) | Moscow, Russia | Nov 25-26, 2015 |
 |[DefCamp 2015](https://www.youtube.com/playlist?list=PLnwq8gv9MEKj6p8VtgCwFdh8uthLp75M3) | Bucharest, Romania | Nov 19-20, 2015 |
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
 |[Grehack 2015](https://www.youtube.com/playlist?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF) | Grenoble, FR | Nov 15, 2015 |
