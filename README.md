@@ -119,6 +119,7 @@ Conference | Location | Date
 * [IronGeek](http://www.irongeek.com/)
 * [Popular SANS Institute & Security Videos](https://www.youtube.com/watch?v=Go77RsVYujc&list=PLp3eqXqiGKwZ7OHGpk-a2VZ2xH2OyGtyf)
 * [(ISC)2 YouTube channel](https://www.youtube.com/user/ISC2TV)
+* [C3TV page](https://media.ccc.de/)
 * [HP Security Research Playlist](https://www.youtube.com/channel/UC3iAdvT7XGI7LtZxu4qHgRg)
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
