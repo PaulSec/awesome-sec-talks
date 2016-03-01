@@ -38,6 +38,7 @@ Conference | Location | Date
 |[Secure West Virgina 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8SFdoqtYpwvknOjMOdSIMY) | West Virginia, USA | Nov. 7, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
 |[Hackfest 2015](https://www.youtube.com/playlist?list=PLaXanmjyAPzE1IdtfIevH0CS7mofDkq2f) | Quebec city, Canada | Nov. 6/7, 2015 |
+|[DENOG 7](https://media.ccc.de/c/denog7) | Darmstadt, Germany | Oct 29/30, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
 |[SkyDogCon 2015](https://www.youtube.com/playlist?list=PLLEf-wPc7TyY6I8AtHvrSEAj3UNjRnpOZ) | Nashville, TN, USA | Oct 23-25, 2015 |
@@ -53,6 +54,7 @@ Conference | Location | Date
 |[OWASP EEE (Eastern European Event)](https://www.youtube.com/channel/UCzpfaWiZaT9_msL3jdY_FDw)| Eastern Europe, EU | All year 2015 |
 |[BSides Augusta 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_tRDcxhP9vldVoJhTkwdnt) | Augusta, GA, USA | Sep 12, 2015 |
 |[BalCCon 2015 (2k15)](https://www.youtube.com/watch?v=PHC-W7ttzl4&list=PLyHRd2YK1T4ypek_YcnTux1xC_Pu9JZzF) | Novi Sad, Vojvodina, Serbia |Sep 11-13, 2015 |
+|[FrOSCon 10](https://media.ccc.de/c/froscon2015) | Sankt Augustin, Germany | Aug 22/23, 2015 |
 |[Crypto 2015](https://www.youtube.com/playlist?list=PLeeS-3Ml-rpoNWewUnljPP7QN4USn4c7H) | Santa Barbara, CA, USA | Aug 16-20, 2015 |
 |[Chaos Communication Camp 2015 [German]](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2ZrTckdtMUV4no50_-b9OkL) | Zehdenick, Germany | Aug 13-17, 2015 |
 |[USENIX Security 2015](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfeRixThHzgGYj1wu80JOh3) | Washington, D.C., USA | Aug 12-14, 2015 |
@@ -80,6 +82,7 @@ Conference | Location | Date
 |[Positive Hack Days V](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzlKjae0e_-lIktpPeTRR7e) | Moscow, Russia | May 26-27, 2015 |
 |[SyScan 2015](https://www.youtube.com/playlist?list=PLKpjtdatAwij7ajFwQSkmxFm43N9U_T3E) | Singapore, Singapore | Mar 21-27, 2015 |
 |[BSides Orlando](https://www.youtube.com/playlist?list=PLu1bAtIWt2VbXiy4kNWdtVkWiRWvPoeD6) | Orlando, FL, USA | Apr 11-12, 2015 |
+|[Easterhegg 2015](https://media.ccc.de/c/eh15) | Braunschweig, Germany | Apr 3-6, 2015 |
 |[Infiltrate 2015](https://vimeo.com/user18478112/videos/sort:date) | Miami Beach, FL, USA | Apr 2015 |
 |[BSides SLC 2015](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos) | Salt Lake City, UT, USA | Mar 21, 2015 |
 |[Carolina Con 2015](https://www.youtube.com/playlist?list=PLdh5UOMgeDvkWYaZcUrFagUY2zUtfMafR) | Raleigh, NC, USA | Mar 4, 2015 |
@@ -102,8 +105,14 @@ Conference | Location | Date
 |[Chaos Communication Congress 2014 (31C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2b99U-g1iPLclDCsmqJKB82)| Hamburg, Germany | Dec 27-30, 2014 |
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, FR | Dec 3-5, 2014 |
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
+|[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 
+## 2013
+
+Conference | Location | Date
+--- | --- | ---
+|[Chaos Communication Congress 2013 (30C3)](https://media.ccc.de/c/30c3) | Hamburg, Germany | Dec 27-30, 2014 |
 
 ## Other Video Caches
 
