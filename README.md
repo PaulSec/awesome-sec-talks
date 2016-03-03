@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[BSides San Francisco 2016](http://www.irongeek.com/i.php?page=videos/bsidessf2016/mainlist) | San Francisco, CA  | Feb 28-29, 2016 |
 |[BSides Huntsville 2016](http://www.irongeek.com/i.php?page=videos/bsideshuntsville2016/mainlist) | Hunstville, AL | Feb 06, 2016 |
 |[USENIX Enigma Conference 2016](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw) | San Francisco, CA | Jan 25-27, 2016 |
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
