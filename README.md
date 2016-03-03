@@ -39,6 +39,7 @@ Conference | Location | Date
 |[Secure West Virgina 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8SFdoqtYpwvknOjMOdSIMY) | West Virginia, USA | Nov. 7, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
 |[Hackfest 2015](https://www.youtube.com/playlist?list=PLaXanmjyAPzE1IdtfIevH0CS7mofDkq2f) | Quebec city, Canada | Nov. 6/7, 2015 |
+|[Hackito Ergo Sum 2015](https://www.youtube.com/playlist?list=PL0n_p9YGRhHi9jDb6codB-TocS-mDU2TS) | Paris, France | Oct 29/30, 2015 |
 |[DENOG 7](https://media.ccc.de/c/denog7) | Darmstadt, Germany | Oct 29/30, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
