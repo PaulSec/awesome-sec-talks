@@ -36,6 +36,7 @@ Conference | Location | Date
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
 |[Grehack 2015](https://www.youtube.com/playlist?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF) | Grenoble, FR | Nov 15, 2015 |
 |[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, SC, USA | Nov 14, 2015 |
+|[Black Hat Europe 2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsVd9jdTWUB5s16fmr2VCQyS) | Amsterdam, Netherlands | Nov 12-13, 2015 |
 |[Secure West Virgina 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8SFdoqtYpwvknOjMOdSIMY) | West Virginia, USA | Nov. 7, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
 |[Hackfest 2015](https://www.youtube.com/playlist?list=PLaXanmjyAPzE1IdtfIevH0CS7mofDkq2f) | Quebec city, Canada | Nov. 6/7, 2015 |
