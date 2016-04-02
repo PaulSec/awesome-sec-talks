@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[TROOPERS16](https://www.youtube.com/user/TROOPERScon/videos) | Heidelberg, Germany  | Mar 16-17, 2016 |
 |[CypherCon 2016](http://www.irongeek.com/i.php?page=videos/cyphercon2016/mainlist) | Milwaukee, WI  | Mar 11-12, 2016 |
 |[BSides San Francisco 2016](http://www.irongeek.com/i.php?page=videos/bsidessf2016/mainlist) | San Francisco, CA  | Feb 28-29, 2016 |
 |[BSides Indy 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Indianapolis, IN  | Feb 21, 2016 |
