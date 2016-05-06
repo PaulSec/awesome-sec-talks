@@ -105,7 +105,7 @@ Conference | Location | Date
 |[ShmooCon 2015](https://www.youtube.com/playlist?list=PLrP-faxXRgggF2VVXMGYxmj2yeuV8003j) | Washington D.C., USA | Jan 16-18, 2015 |
 |[FloCon 2015](https://www.youtube.com/playlist?list=PLSNlEg26NNpzyo5SOikogTjmACDFghLQP) | Portland, OR, USA | Jan 12-15 2015 |
 |[Bsides Vancouver 2015](https://www.youtube.com/watch?v=QpYHiNElzZI&list=UUIvfe0KAXCjxIXWabrfn2tA&index=10) | Vancouver, Canada | March 17 2015 |
-
+|[Code Blue 2015](https://www.youtube.com/playlist?list=PL-XyPQsyOrNEoJ4xC4Q5OY24Y5I-lUTRz) | Tokyo, Japan | Nov 28-29 2015 |
 ## 2014
 
 Conference | Location | Date
@@ -115,12 +115,13 @@ Conference | Location | Date
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
 |[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
-
+|[Code Blue 2014](https://www.youtube.com/playlist?list=PL-XyPQsyOrNH6yjMad_XNH4Bo-I133jag) | Tokyo, Japan | Dec 18-19 2014 |
 ## 2013
 
 Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2013 (30C3)](https://media.ccc.de/c/30c3) | Hamburg, Germany | Dec 27-30, 2014 |
+|[Code Blue 2013](https://www.youtube.com/playlist?list=PL-XyPQsyOrNFzTh7UGhzaRw5s3634z0YZ) | Tokyo, Japan | Feb 17-18 2014 |
 
 ## Other Video Caches
 
