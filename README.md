@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[BSidesCincy 2016](https://www.youtube.com/playlist?list=PLrwRJhfJmJRjDYmKTU9DY7XsG09QOBhwl) | Cincinnati, OH-KY-IN, USA | May 21, 2016 |
 |[BSides Nashville 2016](http://www.irongeek.com/i.php?page=videos/bsidesnashville2016/mainlist) | Nashville, TN  | Apr 16, 2016 |
 |[Central Ohio ISSA 2016](http://www.irongeek.com/i.php?page=videos/centralohioinfosec2016/mainlist) | Columbus, Ohio  | Mar 31, 2016 |
 |[TROOPERS16](https://www.youtube.com/user/TROOPERScon) | Heidelberg, Germany  | Mar 14-18, 2016 |
