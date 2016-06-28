@@ -21,6 +21,7 @@ Conference | Location | Date
 |[TROOPERS16](https://www.youtube.com/user/TROOPERScon) | Heidelberg, Germany  | Mar 14-18, 2016 |
 |[CypherCon 2016](http://www.irongeek.com/i.php?page=videos/cyphercon2016/mainlist) | Milwaukee, WI  | Mar 11-12, 2016 |
 |[BSides San Francisco 2016](http://www.irongeek.com/i.php?page=videos/bsidessf2016/mainlist) | San Francisco, CA  | Feb 28-29, 2016 |
+|[BSides Cleveland 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Cleveland OH | Feb 24-25, 2016 |
 |[BSides Indy 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Indianapolis, IN  | Feb 21, 2016 |
 |[BSides Huntsville 2016](http://www.irongeek.com/i.php?page=videos/bsideshuntsville2016/mainlist) | Hunstville, AL | Feb 06, 2016 |
 |[USENIX Enigma Conference 2016](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw) | San Francisco, CA | Jan 25-27, 2016 |
