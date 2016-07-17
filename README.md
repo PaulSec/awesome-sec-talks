@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) | Rome, Italy | Jun 26 - 01, 2016 |
 |[HITBSecConf 2016](https://conference.hitb.org/hitbsecconf2016ams/materials/) | Amsterdam, Netherlands | May 23 - 27, 2016 |
 |[BSidesCincy 2016](https://www.youtube.com/playlist?list=PLrwRJhfJmJRjDYmKTU9DY7XsG09QOBhwl) | Cincinnati, OH-KY-IN, USA | May 21, 2016 |
 |[BSides Nashville 2016](http://www.irongeek.com/i.php?page=videos/bsidesnashville2016/mainlist) | Nashville, TN  | Apr 16, 2016 |
