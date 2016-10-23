@@ -76,6 +76,7 @@ Conference | Location | Date
 |[OWASP EEE (Eastern European Event)](https://www.youtube.com/channel/UCzpfaWiZaT9_msL3jdY_FDw)| Eastern Europe, EU | All year 2015 |
 |[BSides Augusta 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_tRDcxhP9vldVoJhTkwdnt) | Augusta, GA, USA | Sep 12, 2015 |
 |[BalCCon 2015 (2k15)](https://www.youtube.com/watch?v=PHC-W7ttzl4&list=PLyHRd2YK1T4ypek_YcnTux1xC_Pu9JZzF) | Novi Sad, Vojvodina, Serbia |Sep 11-13, 2015 |
+|[BSides Manchester 2015](https://www.youtube.com/playlist?list=PLcgqQkap1lNrcjRNqx0nddoHE75fCM6If) | Manchester, UK | Aug 25th, 2015 |
 |[FrOSCon 10](https://media.ccc.de/c/froscon2015) | Sankt Augustin, Germany | Aug 22/23, 2015 |
 |[Crypto 2015](https://www.youtube.com/playlist?list=PLeeS-3Ml-rpoNWewUnljPP7QN4USn4c7H) | Santa Barbara, CA, USA | Aug 16-20, 2015 |
 |[Chaos Communication Camp 2015 [German]](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2ZrTckdtMUV4no50_-b9OkL) | Zehdenick, Germany | Aug 13-17, 2015 |
