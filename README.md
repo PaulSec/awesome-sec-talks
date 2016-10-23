@@ -18,6 +18,7 @@ Conference | Location | Date
 |[R2Con](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU) | Barcelona, Spain | Sep 8 - 10, 2016 |
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
 |[Security Onion 2016](https://www.youtube.com/playlist?list=PLljFlTO9rB15Tve-LhV5k_5_0HH37eALe) | Augusta, GA | Sep 09, 2016 |
+|[BSides Manchester 2016](https://www.youtube.com/playlist?list=PLcgqQkap1lNqN1uv4xj8tcJq5QOzg3ROY) | Manchester, UK | Aug 18th, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
 |[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) | Rome, Italy | Jun 26 - 01, 2016 |
@@ -75,6 +76,7 @@ Conference | Location | Date
 |[OWASP EEE (Eastern European Event)](https://www.youtube.com/channel/UCzpfaWiZaT9_msL3jdY_FDw)| Eastern Europe, EU | All year 2015 |
 |[BSides Augusta 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_tRDcxhP9vldVoJhTkwdnt) | Augusta, GA, USA | Sep 12, 2015 |
 |[BalCCon 2015 (2k15)](https://www.youtube.com/watch?v=PHC-W7ttzl4&list=PLyHRd2YK1T4ypek_YcnTux1xC_Pu9JZzF) | Novi Sad, Vojvodina, Serbia |Sep 11-13, 2015 |
+|[BSides Manchester 2015](https://www.youtube.com/playlist?list=PLcgqQkap1lNrcjRNqx0nddoHE75fCM6If) | Manchester, UK | Aug 25th, 2015 |
 |[FrOSCon 10](https://media.ccc.de/c/froscon2015) | Sankt Augustin, Germany | Aug 22/23, 2015 |
 |[Crypto 2015](https://www.youtube.com/playlist?list=PLeeS-3Ml-rpoNWewUnljPP7QN4USn4c7H) | Santa Barbara, CA, USA | Aug 16-20, 2015 |
 |[Chaos Communication Camp 2015 [German]](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2ZrTckdtMUV4no50_-b9OkL) | Zehdenick, Germany | Aug 13-17, 2015 |
@@ -127,6 +129,7 @@ Conference | Location | Date
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, FR | Dec 3-5, 2014 |
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
 |[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
+|[BSides Manchester 2014](https://www.youtube.com/playlist?list=PLcgqQkap1lNqshXNFLodW959hNipK7Px2) | Manchester, UK | Jun 27-28, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 |[Code Blue 2014](https://www.youtube.com/playlist?list=PL-XyPQsyOrNH6yjMad_XNH4Bo-I133jag) | Tokyo, Japan | Dec 18-19 2014 |
 ## 2013
