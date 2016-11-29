@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
 |[R2Con](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU) | Barcelona, Spain | Sep 8 - 10, 2016 |
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
