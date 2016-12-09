@@ -16,6 +16,7 @@ Conference | Location | Date
 --- | --- | ---
 |[BSidesPhiladelphia 2016](http://www.irongeek.com/i.php?page=videos/bsidesphilly2016/mainlist) | Philadelphia | Dec 02 - 03, 2016 |
 |[SecureWV 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-wLsEAL9FIXAhC3WY1YvrW) | South Charleston, WV | Nov 18 - 20, 2016 |
+|[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
