@@ -30,6 +30,7 @@ Conference | Location | Date
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
 |[Shmoocon 2016](https://archive.org/details/shmoocon-2016) | Washington, DC | Jan 15, 2016 |
 |[Shmoocon Firetalks 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_gTMJmDNjUcN15HK6-p4H4) | Washington, DC | Jan 15, 2016 |
+|[Zeronights 2016](https://2016.zeronights.org/conference-materials/presentations/ | Mosow, Russia | Nov 17-18, 2016 |
 
 ## 2015
 
