@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[Chaos Communication Congress 2016 (33C3)](https://media.ccc.de/b/congress/2016) | Hamburg, Germany | Dec 27-30, 2016 |
 |[BSidesPhiladelphia 2016](http://www.irongeek.com/i.php?page=videos/bsidesphilly2016/mainlist) | Philadelphia | Dec 02 - 03, 2016 |
 |[SecureWV 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-wLsEAL9FIXAhC3WY1YvrW) | South Charleston, WV | Nov 18 - 20, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
