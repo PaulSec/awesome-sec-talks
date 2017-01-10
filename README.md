@@ -18,6 +18,7 @@ Conference | Location | Date
 |[BSidesPhiladelphia 2016](http://www.irongeek.com/i.php?page=videos/bsidesphilly2016/mainlist) | Philadelphia | Dec 02 - 03, 2016 |
 |[SecureWV 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-wLsEAL9FIXAhC3WY1YvrW) | South Charleston, WV | Nov 18 - 20, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
+|[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
@@ -73,6 +74,7 @@ Conference | Location | Date
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
 |[SkyDogCon 2015](https://www.youtube.com/playlist?list=PLLEf-wPc7TyY6I8AtHvrSEAj3UNjRnpOZ) | Nashville, TN, USA | Oct 23-25, 2015 |
 |[Ekoparty [Spanish]](https://vimeo.com/album/3682874) | Buenos Aires, Argentina | Oct 21, 2015 |
+|[LACON 2015](https://www.youtube.com/playlist?list=PLLWzQe8KOh5luDX7Ig9yVMEVnb1waAS9w) | Austin, TX | Oct 20-23, 2015 |
 |[Sector 2015](http://sector.ca/presentations) | Toronto, Canada | Oct 19-21, 2015 |
 |[CERT.pl Secure 2015](https://www.youtube.com/playlist?list=PLghf5UNZbzG0zLarfwpw4PxPTS0IWo8vB) | Warsaw, Poland | Oct 14, 2015 |
 |[HITB SecConf 2015](https://www.youtube.com/playlist?list=PLmv8T5-GONwSuEm2XTeIVi6toZ8stS6J2) | Singapore, Maylasia | Oct 13, 2015 |
@@ -136,6 +138,7 @@ Conference | Location | Date
 |[Chaos Communication Congress 2014 (31C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2b99U-g1iPLclDCsmqJKB82)| Hamburg, Germany | Dec 27-30, 2014 |
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, FR | Dec 3-5, 2014 |
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
+|[LASCON 2014](https://www.youtube.com/playlist?list=PLLWzQe8KOh5k0FGZjVQJpE0eetc9kwaNP) | Austin, TX | Oct 23-24, 2014 |
 |[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
 |[BSides Manchester 2014](https://www.youtube.com/playlist?list=PLcgqQkap1lNqshXNFLodW959hNipK7Px2) | Manchester, UK | Jun 27-28, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
