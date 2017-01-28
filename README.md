@@ -8,8 +8,6 @@ A curated list of awesome Security talks
 [TunnelsUp](https://twitter.com/TunnelsUp)  
 [PaulWebSec](https://twitter.com/PaulWebSec)
 
-## 2016
-
 *Incoming, as soon as con videos are out, push them here!*
 
 ## 2017
