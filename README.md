@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[Blue Hat IL](http://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
 |[BSides Columbus 2017](http://www.irongeek.com/i.php?page=videos/bsidescolumbus2017/mainlist) | Columbus, Ohio  | Jan 16, 2017 |
 |[ShmooCon 2017](https://archive.org/details/ShmooCon2017) | Washington, DC  | Jan 13 - 15, 2017 |
 
