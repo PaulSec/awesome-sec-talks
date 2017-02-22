@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[RSA Conference 2017](https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf) | San Francisco, CA | Feb 13 - 17, 2017 |
 |[Fosdem 2017](https://video.fosdem.org/2017/) | Brussels, Belgium  | Feb 4 - 5, 2017 |
 |[Blue Hat IL](http://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
 |[BSides Columbus 2017](http://www.irongeek.com/i.php?page=videos/bsidescolumbus2017/mainlist) | Columbus, Ohio  | Jan 16, 2017 |
