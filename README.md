@@ -17,6 +17,7 @@ Conference | Location | Date
 |[BSides NOVA](https://www.youtube.com/playlist?list=PLNhlcxQZJSm95e9Z5mvkAk5H3eEBFuVSf) | Herndon, VA | Feb 25, 2017 |
 |[Securi-Tay 2017](https://www.youtube.com/playlist?list=PLqjUlpQ6EnByc0mpipwGU0dyPRdC1dC-k) | Dundee, UK | Feb 24, 2017 |
 |[RSA Conference 2017](https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf) | San Francisco, CA | Feb 13 - 17, 2017 |
+|[BSides San Francisco 2017](https://www.youtube.com/playlist?list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8) | San Francisco, CA | Feb 12 - 13, 2017 |
 |[Fosdem 2017](https://video.fosdem.org/2017/) | Brussels, Belgium  | Feb 4 - 5, 2017 |
 |[Blue Hat IL](http://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
 |[BSides Columbus 2017](http://www.irongeek.com/i.php?page=videos/bsidescolumbus2017/mainlist) | Columbus, Ohio  | Jan 16, 2017 |
