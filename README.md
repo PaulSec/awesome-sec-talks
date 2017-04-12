@@ -33,6 +33,7 @@ Conference | Location | Date
 |[BSides Lisbon 2016](https://www.youtube.com/playlist?list=PLbuNP88_wbNzN2AMGH8-rm8GwiZOfPk7Q) | Lisbon, Portugal | Nov 11, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
 |[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
+|[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
