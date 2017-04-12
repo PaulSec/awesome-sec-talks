@@ -79,6 +79,7 @@ Conference | Location | Date
 |[BSides Cape Town 2015](https://www.youtube.com/playlist?list=PLkZHdEqkqk-8magBq-86P0Zbu00BH5VRk) | Cape Town, ZA | Dec 5, 2015 |
 |[ZeroNights 2015](https://www.youtube.com/playlist?list=PLHlFrzuFU1EU2vGbM2siqEGJ-_ogPPgoM) | Moscow, Russia | Nov 25-26, 2015 |
 |[DefCamp 2015](https://www.youtube.com/playlist?list=PLnwq8gv9MEKj6p8VtgCwFdh8uthLp75M3) | Bucharest, Romania | Nov 19-20, 2015 |
+|[DeepSec 2015](https://www.youtube.com/playlist?list=PLBA0WdWrcrCHpBtNgK-H64_S6-xBpzILR) | Vienna, Austria | Nov 17-20, 2015 |
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
 |[Grehack 2015](https://www.youtube.com/playlist?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF) | Grenoble, FR | Nov 15, 2015 |
 |[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, SC, USA | Nov 14, 2015 |
