@@ -44,6 +44,8 @@ Conference | Location | Date
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
 |[Security Onion 2016](https://www.youtube.com/playlist?list=PLljFlTO9rB15Tve-LhV5k_5_0HH37eALe) | Augusta, GA | Sep 09, 2016 |
 |[Linux Security Summit 2016](https://www.linux.com/news/linux-security-summit-videos) | Toronto, Canada | Aug 25 - 26, 2016 |
+|[HITBSecConf 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwRtCwz33lrnCGV4V_rb3sCk) | Singapore | Aug 22 - 26, 2016 |
+|[HITBSecConf CommSec 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwSh0Gc70yAfSzULQ82JoVwB) | Singapore | Aug 22 - 26, 2016 |
 |[BSides Manchester 2016](https://www.youtube.com/playlist?list=PLcgqQkap1lNqN1uv4xj8tcJq5QOzg3ROY) | Manchester, UK | Aug 18th, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
