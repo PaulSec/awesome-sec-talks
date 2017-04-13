@@ -33,6 +33,7 @@ Conference | Location | Date
 |[BSides Lisbon 2016](https://www.youtube.com/playlist?list=PLbuNP88_wbNzN2AMGH8-rm8GwiZOfPk7Q) | Lisbon, Portugal | Nov 11, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
 |[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
+|[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
@@ -43,6 +44,8 @@ Conference | Location | Date
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
 |[Security Onion 2016](https://www.youtube.com/playlist?list=PLljFlTO9rB15Tve-LhV5k_5_0HH37eALe) | Augusta, GA | Sep 09, 2016 |
 |[Linux Security Summit 2016](https://www.linux.com/news/linux-security-summit-videos) | Toronto, Canada | Aug 25 - 26, 2016 |
+|[HITBSecConf 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwRtCwz33lrnCGV4V_rb3sCk) | Singapore | Aug 22 - 26, 2016 |
+|[HITBSecConf CommSec 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwSh0Gc70yAfSzULQ82JoVwB) | Singapore | Aug 22 - 26, 2016 |
 |[BSides Manchester 2016](https://www.youtube.com/playlist?list=PLcgqQkap1lNqN1uv4xj8tcJq5QOzg3ROY) | Manchester, UK | Aug 18th, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
@@ -78,6 +81,7 @@ Conference | Location | Date
 |[BSides Cape Town 2015](https://www.youtube.com/playlist?list=PLkZHdEqkqk-8magBq-86P0Zbu00BH5VRk) | Cape Town, ZA | Dec 5, 2015 |
 |[ZeroNights 2015](https://www.youtube.com/playlist?list=PLHlFrzuFU1EU2vGbM2siqEGJ-_ogPPgoM) | Moscow, Russia | Nov 25-26, 2015 |
 |[DefCamp 2015](https://www.youtube.com/playlist?list=PLnwq8gv9MEKj6p8VtgCwFdh8uthLp75M3) | Bucharest, Romania | Nov 19-20, 2015 |
+|[DeepSec 2015](https://www.youtube.com/playlist?list=PLBA0WdWrcrCHpBtNgK-H64_S6-xBpzILR) | Vienna, Austria | Nov 17-20, 2015 |
 |[BSides Winnipeg 2015](https://www.youtube.com/playlist?list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD) | Winnipeg, Canada | Nov 14-15, 2015 |
 |[Grehack 2015](https://www.youtube.com/playlist?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF) | Grenoble, FR | Nov 15, 2015 |
 |[BSides Charleston 2015](https://www.youtube.com/playlist?list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) | Charleston, SC, USA | Nov 14, 2015 |
