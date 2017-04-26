@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
 |[BSides NOVA](https://www.youtube.com/playlist?list=PLNhlcxQZJSm95e9Z5mvkAk5H3eEBFuVSf) | Herndon, VA | Feb 25, 2017 |
 |[Securi-Tay 2017](https://www.youtube.com/playlist?list=PLqjUlpQ6EnByc0mpipwGU0dyPRdC1dC-k) | Dundee, UK | Feb 24, 2017 |
 |[RSA Conference 2017](https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf) | San Francisco, CA | Feb 13 - 17, 2017 |
