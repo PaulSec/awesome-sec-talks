@@ -18,6 +18,7 @@ Conference | Location | Date
 |[BSides AIDE](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Charleston, WV | Apr 3-7, 2017 |
 |[Cyphercon 2.0](http://www.irongeek.com/i.php?page=videos/cyphercon2/mainlist) | MILWAUKEE, WI | Mar 30-31, 2017 |
 |[Bloomcon](http://www.irongeek.com/i.php?page=videos/bloomcon2017/mainlist) | Bloomsburg, PA | Mar 24-25, 2017 |
+|[nullcon Goa 2017](https://www.youtube.com/user/nullcon/search?query=2017) | Goa, India | Mar 3-4, 2017 |
 |[BSides NOVA](https://www.youtube.com/playlist?list=PLNhlcxQZJSm95e9Z5mvkAk5H3eEBFuVSf) | Herndon, VA | Feb 25, 2017 |
 |[Securi-Tay 2017](https://www.youtube.com/playlist?list=PLqjUlpQ6EnByc0mpipwGU0dyPRdC1dC-k) | Dundee, UK | Feb 24, 2017 |
 |[RSA Conference 2017](https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf) | San Francisco, CA | Feb 13 - 17, 2017 |
