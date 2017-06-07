@@ -14,7 +14,9 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-|[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 8-12, 2017 |
+|[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
+|[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
+|[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
 |[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
 |[BSides AIDE](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Charleston, WV | Apr 3-7, 2017 |
 |[Cyphercon 2.0](http://www.irongeek.com/i.php?page=videos/cyphercon2/mainlist) | MILWAUKEE, WI | Mar 30-31, 2017 |
