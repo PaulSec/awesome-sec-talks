@@ -43,7 +43,7 @@ Conference | Location | Date
 |[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
 |[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
-|[DevSecCon London 2016](http://www.devseccon.com/london-2016-videos/) | London, UK | Oct 20, 2016 |
+|[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
