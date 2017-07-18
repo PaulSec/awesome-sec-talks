@@ -20,10 +20,10 @@ Conference | Location | Date
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
 |[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
-|[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
-|[BSides AIDE](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Charleston, WV | Apr 3-7, 2017 |
-|[Cyphercon 2.0](http://www.irongeek.com/i.php?page=videos/cyphercon2/mainlist) | MILWAUKEE, WI | Mar 30-31, 2017 |
-|[Bloomcon](http://www.irongeek.com/i.php?page=videos/bloomcon2017/mainlist) | Bloomsburg, PA | Mar 24-25, 2017 |
+|[BSides Nashville](http://lightspeed1.nsnet.net/access/web?id=b698981a-6bd8-11e7-8b13-00e0ed148814) | Nashville, TN | Apr 22, 2017 |
+|[BSides AIDE](http://lightspeed1.nsnet.net/access/web?id=b699d2d1-6bd8-11e7-8b13-00e0ed148814) | Charleston, WV | Apr 3-7, 2017 |
+|[Cyphercon 2.0](http://lightspeed1.nsnet.net/access/web?id=b699d39d-6bd8-11e7-8b13-00e0ed148814) | MILWAUKEE, WI | Mar 30-31, 2017 |
+|[Bloomcon](http://lightspeed1.nsnet.net/access/web?id=b6a2e0a4-6bd8-11e7-8b13-00e0ed148814) | Bloomsburg, PA | Mar 24-25, 2017 |
 |[nullcon Goa 2017](https://www.youtube.com/user/nullcon/search?query=2017) | Goa, India | Mar 3-4, 2017 |
 |[BSides NOVA](https://www.youtube.com/playlist?list=PLNhlcxQZJSm95e9Z5mvkAk5H3eEBFuVSf) | Herndon, VA | Feb 25, 2017 |
 |[Securi-Tay 2017](https://www.youtube.com/playlist?list=PLqjUlpQ6EnByc0mpipwGU0dyPRdC1dC-k) | Dundee, UK | Feb 24, 2017 |
@@ -31,8 +31,8 @@ Conference | Location | Date
 |[RSA Conference 2017](https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf) | San Francisco, CA | Feb 13 - 17, 2017 |
 |[BSides San Francisco 2017](https://www.youtube.com/playlist?list=PLbZzXF2qC3Rsv-7uUugKLaz5CzQUnuAk8) | San Francisco, CA | Feb 12 - 13, 2017 |
 |[Fosdem 2017](https://video.fosdem.org/2017/) | Brussels, Belgium  | Feb 4 - 5, 2017 |
-|[Blue Hat IL](http://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
-|[BSides Columbus 2017](http://www.irongeek.com/i.php?page=videos/bsidescolumbus2017/mainlist) | Columbus, Ohio  | Jan 16, 2017 |
+|[Blue Hat IL](http://lightspeed1.nsnet.net/access/web?id=b6ab4708-6bd8-11e7-8b13-00e0ed148814) | Tel Aviv, Israel  | Jan 24 - 25, 2017 |
+|[BSides Columbus 2017](http://lightspeed1.nsnet.net/access/web?id=b6b9950f-6bd8-11e7-8b13-00e0ed148814) | Columbus, Ohio  | Jan 16, 2017 |
 |[ShmooCon 2017](https://archive.org/details/ShmooCon2017) | Washington, DC  | Jan 13 - 15, 2017 |
 
 ## 2016
@@ -40,7 +40,7 @@ Conference | Location | Date
 Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2016 (33C3)](https://media.ccc.de/b/congress/2016) | Hamburg, Germany | Dec 27-30, 2016 |
-|[BSidesPhiladelphia 2016](http://www.irongeek.com/i.php?page=videos/bsidesphilly2016/mainlist) | Philadelphia | Dec 02 - 03, 2016 |
+|[BSidesPhiladelphia 2016](http://lightspeed1.nsnet.net/access/web?id=b6d1bb4c-6bd8-11e7-8b13-00e0ed148814) | Philadelphia | Dec 02 - 03, 2016 |
 |[SecureWV 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-wLsEAL9FIXAhC3WY1YvrW) | South Charleston, WV | Nov 18 - 20, 2016 |
 |[BSides Lisbon 2016](https://www.youtube.com/playlist?list=PLbuNP88_wbNzN2AMGH8-rm8GwiZOfPk7Q) | Lisbon, Portugal | Nov 11, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
@@ -50,7 +50,7 @@ Conference | Location | Date
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
-|[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
+|[DerbyCon 6.0](http://lightspeed1.nsnet.net/access/web?id=b70f6638-6bd8-11e7-8b13-00e0ed148814) | Louisville, KY | Sep 23 - 25, 2016 |
 |[FSec 2016](https://www.youtube.com/playlist?list=PL091tVBWhjdRWx-ifdfpEh_r7F4ZgPmj4) | Varaždin, Croatia | Sep 14 - 15, 2016 |
 |[R2Con](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU) | Barcelona, Spain | Sep 8 - 10, 2016 |
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
@@ -66,15 +66,15 @@ Conference | Location | Date
 |[NorthSec 2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) | Montreal, Canada | May 17 - 22, 2016 |
 |[Positive HackDays VI](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzYUBqKQFJ7ZuZN0YxrY2AH) | Moscow, Russia | May 17-18, 2016 |
 |[BSidesCincy 2016](https://www.youtube.com/playlist?list=PLrwRJhfJmJRjDYmKTU9DY7XsG09QOBhwl) | Cincinnati, OH-KY-IN, USA | May 21, 2016 |
-|[BSides Nashville 2016](http://www.irongeek.com/i.php?page=videos/bsidesnashville2016/mainlist) | Nashville, TN  | Apr 16, 2016 |
-|[Central Ohio ISSA 2016](http://www.irongeek.com/i.php?page=videos/centralohioinfosec2016/mainlist) | Columbus, Ohio  | Mar 31, 2016 |
+|[BSides Nashville 2016](http://lightspeed1.nsnet.net/access/web?id=b77c49a8-6bd8-11e7-8b13-00e0ed148814) | Nashville, TN  | Apr 16, 2016 |
+|[Central Ohio ISSA 2016](http://lightspeed1.nsnet.net/access/web?id=b77c4a31-6bd8-11e7-8b13-00e0ed148814) | Columbus, Ohio  | Mar 31, 2016 |
 |[Black Hat Asia 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsWLd417eaJNy7CCEDyA53Pz) | Singapore | Mar 29 - Apr 1, 2016 |
 |[TROOPERS16](https://www.youtube.com/user/TROOPERScon) | Heidelberg, Germany  | Mar 14-18, 2016 |
-|[CypherCon 2016](http://www.irongeek.com/i.php?page=videos/cyphercon2016/mainlist) | Milwaukee, WI  | Mar 11-12, 2016 |
-|[BSides San Francisco 2016](http://www.irongeek.com/i.php?page=videos/bsidessf2016/mainlist) | San Francisco, CA  | Feb 28-29, 2016 |
-|[BSides Cleveland 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Cleveland OH | Feb 24-25, 2016 |
-|[BSides Indy 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Indianapolis, IN  | Feb 21, 2016 |
-|[BSides Huntsville 2016](http://www.irongeek.com/i.php?page=videos/bsideshuntsville2016/mainlist) | Hunstville, AL | Feb 06, 2016 |
+|[CypherCon 2016](http://lightspeed1.nsnet.net/access/web?id=b79359df-6bd8-11e7-8b13-00e0ed148814) | Milwaukee, WI  | Mar 11-12, 2016 |
+|[BSides San Francisco 2016](http://lightspeed1.nsnet.net/access/web?id=b795419c-6bd8-11e7-8b13-00e0ed148814) | San Francisco, CA  | Feb 28-29, 2016 |
+|[BSides Cleveland 2016](http://lightspeed1.nsnet.net/access/web?id=b7a10e54-6bd8-11e7-8b13-00e0ed148814) | Cleveland OH | Feb 24-25, 2016 |
+|[BSides Indy 2016](http://lightspeed1.nsnet.net/access/web?id=b7a61b5e-6bd8-11e7-8b13-00e0ed148814) | Indianapolis, IN  | Feb 21, 2016 |
+|[BSides Huntsville 2016](http://lightspeed1.nsnet.net/access/web?id=b7ab4ab6-6bd8-11e7-8b13-00e0ed148814) | Hunstville, AL | Feb 06, 2016 |
 |[USENIX Enigma Conference 2016](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw) | San Francisco, CA | Jan 25-27, 2016 |
 |[OWASP AppSec California 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8fNc1gwXz4SXKTRB4yZB5v) | Santa Monica, CA | Jan 25-27, 2016 |
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
@@ -86,7 +86,7 @@ Conference | Location | Date
 Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2015 (32C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) | Hamburg, Germany | Dec 27-30, 2015 |
-|[BSides Hamburg 2015](http://2015.bsideshh.org/content/post/recordingsarereleased/) | Hamburg, Germany | Dec 28, 2015 |
+|[BSides Hamburg 2015](https://blog.hamburgsides.org) | Hamburg, Germany | Dec 28, 2015 |
 |[No Con Name 2015 [Spanish]](https://vimeo.com/noconname/videos) | Barcelona, Spain | Dec 12, 2015 |
 |[Post-Snowden Cryptography 2015](https://psc2015videos.projectbullrun.org/) | Brussels, Belgium | Dec 9-10, 2015|
 |[Passwords 2015](https://www.youtube.com/playlist?list=PLdIqs92nsIzQvvbTiWLLjZOVE7jPBDomw) | Cambridge, UK | Dec 7-9, 2015 |
@@ -108,7 +108,7 @@ Conference | Location | Date
 |[SkyDogCon 2015](https://www.youtube.com/playlist?list=PLLEf-wPc7TyY6I8AtHvrSEAj3UNjRnpOZ) | Nashville, TN, USA | Oct 23-25, 2015 |
 |[Ekoparty [Spanish]](https://vimeo.com/album/3682874) | Buenos Aires, Argentina | Oct 21, 2015 |
 |[LACON 2015](https://www.youtube.com/playlist?list=PLLWzQe8KOh5luDX7Ig9yVMEVnb1waAS9w) | Austin, TX | Oct 20-23, 2015 |
-|[Sector 2015](http://sector.ca/presentations) | Toronto, Canada | Oct 19-21, 2015 |
+|[Sector 2015](https://sector.ca/presentations) | Toronto, Canada | Oct 19-21, 2015 |
 |[CERT.pl Secure 2015](https://www.youtube.com/playlist?list=PLghf5UNZbzG0zLarfwpw4PxPTS0IWo8vB) | Warsaw, Poland | Oct 14, 2015 |
 |[HITB SecConf 2015](https://www.youtube.com/playlist?list=PLmv8T5-GONwSuEm2XTeIVi6toZ8stS6J2) | Singapore, Maylasia | Oct 13, 2015 |
 |[Hacktivity 2015](https://hacktivity.com/en/archives/hacktivity-20151/) | Budapest, Hungary | Oct 9-10, 2015 |
@@ -185,14 +185,14 @@ Conference | Location | Date
 
 ## Other Video Caches
 
-* [IronGeek](http://www.irongeek.com/)
+* [IronGeek](http://lightspeed1.nsnet.net/access/web?id=ba2055ee-6bd8-11e7-8b13-00e0ed148814)
 * [Popular SANS Institute & Security Videos](https://www.youtube.com/watch?v=Go77RsVYujc&list=PLp3eqXqiGKwZ7OHGpk-a2VZ2xH2OyGtyf)
 * [(ISC)2 YouTube channel](https://www.youtube.com/user/ISC2TV)
 * [C3TV page](https://media.ccc.de/)
 * [HP Security Research Playlist](https://www.youtube.com/channel/UC3iAdvT7XGI7LtZxu4qHgRg)
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
-* [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
+* [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](http://www.ciscolive.com/global/)
 
 ## Contributing
 
