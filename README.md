@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|Recon 2017 ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
 |[LevelUp 2017](https://www.youtube.com/playlist?list=PLIK9nm3mu-S5InvR-myOS7hnae8w4EPFV) | Online | Jul 15, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
