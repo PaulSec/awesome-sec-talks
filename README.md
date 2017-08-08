@@ -14,9 +14,11 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
 |DefCon 25 ([slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)) | Vegas, USA | July 27-30, 2017 |
 |Recon 2017 ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
 |[LevelUp 2017](https://www.youtube.com/playlist?list=PLIK9nm3mu-S5InvR-myOS7hnae8w4EPFV) | Online | Jul 15, 2017 |
+|[SteelCon 2017](https://www.youtube.com/playlist?list=PLmfJypsykTLWIg62DKE8EebU-2ZWIT-C6) | Sheffield, UK | Jul 8 - 9, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
@@ -48,7 +50,7 @@ Conference | Location | Date
 |[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
 |[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
-|[DevSecCon London 2016](http://www.devseccon.com/london-2016-videos/) | London, UK | Oct 20, 2016 |
+|[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
