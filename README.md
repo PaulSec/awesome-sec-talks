@@ -48,6 +48,7 @@ Conference | Location | Date
 |[BSides Lisbon 2016](https://www.youtube.com/playlist?list=PLbuNP88_wbNzN2AMGH8-rm8GwiZOfPk7Q) | Lisbon, Portugal | Nov 11, 2016 |
 |[Hackfest 2016](https://www.youtube.com/playlist?list=PLaXanmjyAPzF_Sa1JHpgZlHWz0_MDYTe2) | Quebec City, Canada | Nov 04 - 05, 2016 |
 |[LASCON 2016](https://www.youtube.com/playlist?list=PLLWzQe8KOh5lBO_ji5qbJoghj-lLBClx_) | Austin, TX | Nov 01-04, 2016 |
+|PacSec 2016 ([slides](https://pacsec.jp/pastevents.html)) | Tokyo, Japan | Nov 1-2, 2016 |
 |[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
@@ -104,6 +105,7 @@ Conference | Location | Date
 |[Secure West Virgina 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8SFdoqtYpwvknOjMOdSIMY) | West Virginia, USA | Nov. 7, 2015 |
 |[BSides Toronto 2015](https://www.youtube.com/playlist?list=PL02T0JOKYEq52plvmxiJ1cSbwUgHHvP7H) | Toronto, Canada | Nov. 7, 2015 |
 |[Hackfest 2015](https://www.youtube.com/playlist?list=PLaXanmjyAPzE1IdtfIevH0CS7mofDkq2f) | Quebec city, Canada | Nov. 6/7, 2015 |
+|PacSec 2015 ([slides](https://pacsec.jp/pastevents.html)) | Tokyo, Japan | Nov 1-2, 2015 |
 |[Hackito Ergo Sum 2015](https://www.youtube.com/playlist?list=PL0n_p9YGRhHi9jDb6codB-TocS-mDU2TS) | Paris, France | Oct 29/30, 2015 |
 |[DENOG 7](https://media.ccc.de/c/denog7) | Darmstadt, Germany | Oct 29/30, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
