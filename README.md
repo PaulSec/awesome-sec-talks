@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[HiTB 2017]([slides](http://gsec.hitb.org/materials/sg2017/)) | Singapore | Aug 21-27, 2017 |
 |[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
 |DefCon 25 ([slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)) | Vegas, USA | July 27-30, 2017 |
 |Recon 2017 ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
