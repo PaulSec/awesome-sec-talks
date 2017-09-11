@@ -23,6 +23,7 @@ Conference | Location | Date
 |[Camp++ 2017](https://www.youtube.com/playlist?list=PLoApmOGyM5MXj5CRKZ9mlKlHaMFNLBHLv) | Budapest, HU | Jul 6 - 9, 2017 |
 |[Neoquest 2017 (Russian only)](https://www.youtube.com/channel/UCgQUxiK2oYU4kQOy9oJnMpQ/videos?sort=dd&view=0&shelf_id=0) | Spb, Russia | Jun 29, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
+|[NorthSec 2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe) | Montreal, Canada | May 15 - 21, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
 |[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
@@ -67,6 +68,7 @@ Conference | Location | Date
 |[HITBSecConf 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwRtCwz33lrnCGV4V_rb3sCk) | Singapore | Aug 22 - 26, 2016 |
 |[HITBSecConf CommSec 2016](https://www.youtube.com/playlist?list=PLmv8T5-GONwSh0Gc70yAfSzULQ82JoVwB) | Singapore | Aug 22 - 26, 2016 |
 |[BSides Manchester 2016](https://www.youtube.com/playlist?list=PLcgqQkap1lNqN1uv4xj8tcJq5QOzg3ROY) | Manchester, UK | Aug 18th, 2016 |
+|[Electromagnetic Field 2016](https://media.ccc.de/b/conferences/emf16) | Guildford, UK | Aug 5 - 7, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
 |[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) | Rome, Italy | Jun 26 - 01, 2016 |
