@@ -14,6 +14,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[R2Con 2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S) ([slides](https://github.com/radareorg/r2con-2017)) | Barcelona | Sep 6 - 9, 2017 |
 |[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
 |DefCon 25 ([slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)) | Vegas, USA | July 27-30, 2017 |
 |Recon 2017 ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
