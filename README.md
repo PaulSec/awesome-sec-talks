@@ -15,6 +15,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[BruCON 0x09](https://www.youtube.com/playlist?list=PLtb1FJdVWjUencZ-SBtamJiwB7zc_IlgU) ([slides](http://files.brucon.org/2017/)) | Gent | Oct 2 - 4, 2017 |
 |[R2Con 2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S) ([slides](https://github.com/radareorg/r2con-2017)) | Barcelona | Sep 6 - 9, 2017 |
 |[BSides Amsterdam 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Amsterdam | Sep 1-2, 2017 |
 |HITCON 2017 ([slides](https://hitcon.org/2017/CMT/agenda)) | Taiwan, TW | Aug 25-26, 2017 |
