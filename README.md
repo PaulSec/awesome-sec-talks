@@ -62,6 +62,7 @@ Conference | Location | Date
 |PacSec 2016 ([slides](https://pacsec.jp/pastevents.html)) | Tokyo, Japan | Nov 1-2, 2016 |
 |[BruCON 2016](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfCe1Vcj67PG5Px8u1VY3YD) | Brussels, Belgium | Oct 27-28, 2016 |
 |[Ekoparty 2016](https://www.youtube.com/playlist?list=PLaIv9WEAzYZM7l9SEY8cKtSLWwV8e50aL) | Buenos Aires, Argentina | Oct 26-28, 2016 |
+|Ruxcon 2016 ([slides](http://2016.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 22-23, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
@@ -123,6 +124,7 @@ Conference | Location | Date
 |[DENOG 7](https://media.ccc.de/c/denog7) | Darmstadt, Germany | Oct 29/30, 2015 |
 |[Saint Con 2015](https://www.youtube.com/channel/UCEiHGeWgdIoLCzTLm_izCoQ/videos) | Ogden, UT, USA | Oct 27-30, 2015 |
 |[BruCon 2015](https://www.youtube.com/playlist?list=PLtb1FJdVWjUfZ9fWxPPCrOO7LUquB3WrB) | Brussels, Belgium | Oct 26, 2015 |
+|Ruxcon 2015 ([slides](http://2015.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 24-25, 2015 |
 |[SkyDogCon 2015](https://www.youtube.com/playlist?list=PLLEf-wPc7TyY6I8AtHvrSEAj3UNjRnpOZ) | Nashville, TN, USA | Oct 23-25, 2015 |
 |[Ekoparty [Spanish]](https://vimeo.com/album/3682874) | Buenos Aires, Argentina | Oct 21, 2015 |
 |[LACON 2015](https://www.youtube.com/playlist?list=PLLWzQe8KOh5luDX7Ig9yVMEVnb1waAS9w) | Austin, TX | Oct 20-23, 2015 |
@@ -190,6 +192,7 @@ Conference | Location | Date
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, FR | Dec 3-5, 2014 |
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
 |[LASCON 2014](https://www.youtube.com/playlist?list=PLLWzQe8KOh5k0FGZjVQJpE0eetc9kwaNP) | Austin, TX | Oct 23-24, 2014 |
+|Ruxcon 2014 ([slides](http://2014.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 11-12, 2014 |
 |[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
 |[BSides Manchester 2014](https://www.youtube.com/playlist?list=PLcgqQkap1lNqshXNFLodW959hNipK7Px2) | Manchester, UK | Jun 27-28, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
@@ -199,7 +202,13 @@ Conference | Location | Date
 Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2013 (30C3)](https://media.ccc.de/c/30c3) | Hamburg, Germany | Dec 27-30, 2014 |
+|Ruxcon 2013 ([slides](http://2013.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 26-27, 2013 |
 |[Code Blue 2013](https://www.youtube.com/playlist?list=PL-XyPQsyOrNFzTh7UGhzaRw5s3634z0YZ) | Tokyo, Japan | Feb 17-18 2014 |
+## 2012
+
+Conference | Location | Date
+--- | --- | ---
+|Ruxcon 2012 ([slides](http://2012.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 20-21, 2012 |
 
 ## Other Video Caches
 
