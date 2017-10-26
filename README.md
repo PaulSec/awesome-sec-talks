@@ -23,6 +23,7 @@ Conference | Location | Date
 |HiTB 2017 ([slides](http://gsec.hitb.org/materials/sg2017/)) | Singapore | Aug 21-27, 2017 |
 |[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
 |DefCon 25 ([slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)) | Vegas, USA | July 27-30, 2017 |
+|[Black Hat 2017](https://www.youtube.com/watch?v=YJOMTAREFtY&list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd) ([slides](https://www.blackhat.com/us-17/briefings.html)) | Las Vegas | Jul 22 - 27, 2017 |
 |Recon 2017 ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
 |[LevelUp 2017](https://www.youtube.com/playlist?list=PLIK9nm3mu-S5InvR-myOS7hnae8w4EPFV) | Online | Jul 15, 2017 |
 |[SteelCon 2017](https://www.youtube.com/playlist?list=PLmfJypsykTLWIg62DKE8EebU-2ZWIT-C6) | Sheffield, UK | Jul 8 - 9, 2017 |
