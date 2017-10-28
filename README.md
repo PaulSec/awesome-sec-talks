@@ -31,7 +31,7 @@ Conference | Location | Date
 |[Neoquest 2017 (Russian only)](https://www.youtube.com/channel/UCgQUxiK2oYU4kQOy9oJnMpQ/videos?sort=dd&view=0&shelf_id=0) | Spb, Russia | Jun 29, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
 |[NorthSec 2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe) | Montreal, Canada | May 15 - 21, 2017 |
-|[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) | Belfast, Northern Ireland | May 2-3, 2017 |
+|[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) ([slides](https://2017.appsec.eu/slides-and-videos)) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
 |[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
 |[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
@@ -82,7 +82,7 @@ Conference | Location | Date
 |[Electromagnetic Field 2016](https://media.ccc.de/b/conferences/emf16) | Guildford, UK | Aug 5 - 7, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
-|[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) | Rome, Italy | Jun 26 - 01, 2016 |
+|[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) ([slides](https://2016.appsec.eu/?page_id=914)) | Rome, Italy | Jun 26 - 01, 2016 |
 |[HITBSecConf 2016](https://conference.hitb.org/hitbsecconf2016ams/materials/) | Amsterdam, Netherlands | May 23 - 27, 2016 |
 |[NorthSec 2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) | Montreal, Canada | May 17 - 22, 2016 |
 |[Positive HackDays VI](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzYUBqKQFJ7ZuZN0YxrY2AH) | Moscow, Russia | May 17-18, 2016 |
@@ -162,7 +162,7 @@ Conference | Location | Date
 |[Cycon 2015](https://ccdcoe.org/cycon/past-cycon-conferences.html) | Tallinn, Estonia | May 26-29, 2015 |
 |[HITB AMS SecConfg 2015](https://www.youtube.com/playlist?list=PLJ7_KHVHtAm9YhIzWa_2A61dmFv8cTDO2) | Amsterdam, Netherlands | May 26-29, 2015 |
 |[NorthSec Montreal 2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) | Montreal, Canada | May 19-22, 2015 |
-|[OWASP AppSec EU 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) | Amsterdam, Netherlands | May 19-22, 2015 |
+|[OWASP AppSec EU 2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) ([slides](https://2015.appsec.eu/presentations/)) | Amsterdam, Netherlands | May 19-22, 2015 |
 |[Security in Times of Surveillance 2015](https://projectbullrun.org/surveillance/2015/video-2015.html) | Eindhoven, Netherlands | May 8, 2015 |
 |[Rooted CON 2015 [Spanish]](https://www.youtube.com/playlist?list=PLUOjNfYgonUsE3qq9AyqlFL1sXzZXFrtg) | Madrid, Spain | March 5-7, 2015 |
 |[Rooted CON 2015 [English]](https://www.youtube.com/playlist?list=PLUOjNfYgonUuTk1VXx8CgbzCYq6qOGvWf) | Madrid, Spain | March 5-7, 2015 |
