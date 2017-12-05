@@ -17,8 +17,9 @@ Conference | Location | Date
 --- | --- | ---
 |[Hack.lu](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz) | Luxembourg | Oct 17 - 19, 2017 |
 |[BruCON 0x09](https://www.youtube.com/playlist?list=PLtb1FJdVWjUencZ-SBtamJiwB7zc_IlgU) ([slides](http://files.brucon.org/2017/)) | Gent | Oct 2 - 4, 2017 |
+|[BSides Augusta 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Augusta, USA | Sep 16, 2017 |
 |[R2Con 2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S) ([slides](https://github.com/radareorg/r2con-2017)) | Barcelona | Sep 6 - 9, 2017 |
-|[BSides Amsterdam 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Amsterdam | Sep 1-2, 2017 |
+|[BSides Amsterdam 2017](https://www.youtube.com/watch?v=wKgVdYKkhIY&list=PLEJJRQNh3v_PQEsZ8R7H6xKe9Bkg_KnVC) | Amsterdam | Sep 1-2, 2017 |
 |HITCON 2017 ([slides](https://hitcon.org/2017/CMT/agenda)) | Taiwan, TW | Aug 25-26, 2017 |
 |HiTB 2017 ([slides](http://gsec.hitb.org/materials/sg2017/)) | Singapore | Aug 21-27, 2017 |
 |[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
