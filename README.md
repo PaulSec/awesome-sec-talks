@@ -15,6 +15,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|ZeroNights 2017 (RU/EN [slides](https://2017.zeronights.ru/materials/)) | Moscow, Russia | Nov 16-17, 2017 |
 |[Hack.lu](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz) | Luxembourg | Oct 17 - 19, 2017 |
 |[BruCON 0x09](https://www.youtube.com/playlist?list=PLtb1FJdVWjUencZ-SBtamJiwB7zc_IlgU) ([slides](http://files.brucon.org/2017/)) | Gent | Oct 2 - 4, 2017 |
 |[BSides Augusta 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Augusta, USA | Sep 16, 2017 |
