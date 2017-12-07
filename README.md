@@ -61,6 +61,7 @@ Conference | Location | Date
 |[Chaos Communication Congress 2016 (33C3)](https://media.ccc.de/b/congress/2016) | Hamburg, Germany | Dec 27-30, 2016 |
 |[BSidesPhiladelphia 2016](http://www.irongeek.com/i.php?page=videos/bsidesphilly2016/mainlist) | Philadelphia | Dec 02 - 03, 2016 |
 |HITCON 2016 ([slides](http://hitcon.org/2016/pacific/agenda.htm)) | Taiwan, TW | Dec 1-2, 2016 |
+|[Botconf 2016](https://www.youtube.com/watch?v=EBta0rsVjO4&list=PL8fFmUArVzKilTXVlGV1y5Ahx8edlmo5w) ([slides](https://www.botconf.eu/botconf-2016/programme/detailed-schedule/)) | Lyon, FR | Nov 29 - Dec 2, 2016 |
 |[SecureWV 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-wLsEAL9FIXAhC3WY1YvrW) | South Charleston, WV | Nov 18 - 20, 2016 |
 |[GreHack 2016](https://www.youtube.com/playlist?list=PL7_XhIpUqISnG5c83yw1OGmwfngzpvlld) | Grenoble, France | Nov 18, 2016 |
 |[BSides Lisbon 2016](https://www.youtube.com/playlist?list=PLbuNP88_wbNzN2AMGH8-rm8GwiZOfPk7Q) | Lisbon, Portugal | Nov 11, 2016 |
