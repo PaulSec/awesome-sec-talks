@@ -32,6 +32,7 @@ Conference | Location | Date
 |[Camp++ 2017](https://www.youtube.com/playlist?list=PLoApmOGyM5MXj5CRKZ9mlKlHaMFNLBHLv) | Budapest, HU | Jul 6 - 9, 2017 |
 |[Neoquest 2017 (Russian only)](https://www.youtube.com/channel/UCgQUxiK2oYU4kQOy9oJnMpQ/videos?sort=dd&view=0&shelf_id=0) | Spb, Russia | Jun 29, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
+|[RECON 2017](https://www.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x) | Montreal | Jun 16 - 18, 2017 |
 |[NorthSec 2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe) | Montreal, Canada | May 15 - 21, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) ([slides](https://2017.appsec.eu/slides-and-videos)) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
