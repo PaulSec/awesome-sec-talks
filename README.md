@@ -87,7 +87,7 @@ Conference | Location | Date
 |[BSides Manchester 2016](https://www.youtube.com/playlist?list=PLcgqQkap1lNqN1uv4xj8tcJq5QOzg3ROY) | Manchester, UK | Aug 18th, 2016 |
 |[Electromagnetic Field 2016](https://media.ccc.de/b/conferences/emf16) | Guildford, UK | Aug 5 - 7, 2016 |
 |[SteelCon 2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) | Sheffield, UK | Jul 15 - 17, 2016 |
-|[2016 RMLL Security Track] (https://rmll.ubicast.tv/channels/#2016-securite) ([slides](https://sec2016.rmll.info/files/)) | Paris, France | Jul 4 - 6, 2016 |
+|[2016 RMLL Security Track](https://rmll.ubicast.tv/channels/#2016-securite) ([slides](https://sec2016.rmll.info/files/)) | Paris, France | Jul 4 - 6, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
 |[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) ([slides](https://2016.appsec.eu/?page_id=914)) | Rome, Italy | Jun 26 - 01, 2016 |
 |[HITBSecConf 2016](https://conference.hitb.org/hitbsecconf2016ams/materials/) | Amsterdam, Netherlands | May 23 - 27, 2016 |
