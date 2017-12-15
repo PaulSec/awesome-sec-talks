@@ -219,6 +219,7 @@ Conference | Location | Date
 |Ruxcon 2013 ([slides](http://2013.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 26-27, 2013 |
 |[2013 RMLL Security Track](https://rmll.ubicast.tv/channels/#2013-technique-securite) ([slides](https://schedule2013.rmll.info/spip.php?page=rmll_progall&lang=en&t=23)) | Brussels, Belgium | Jul 8 - 10, 2013 | 
 |[Code Blue 2013](https://www.youtube.com/playlist?list=PL-XyPQsyOrNFzTh7UGhzaRw5s3634z0YZ) | Tokyo, Japan | Feb 17-18 2014 |
+|[BSides Raleigh 2013](https://www.youtube.com/watch?v=EpS-ks1vf9A&list=PLTOzjw9-RQ72F83cpmN73TlTqTLmIC73M) | Raleigh, NC | October 17, 2013 |
 ## 2012
 
 Conference | Location | Date
