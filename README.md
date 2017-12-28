@@ -35,6 +35,7 @@ Conference | Location | Date
 |[Neoquest 2017 (Russian only)](https://www.youtube.com/channel/UCgQUxiK2oYU4kQOy9oJnMpQ/videos?sort=dd&view=0&shelf_id=0) | Spb, Russia | Jun 29, 2017 |
 |[Hack in Paris 2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2) | Online | Jun 27-Jul 1, 2017 |
 |[RECON 2017](https://www.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x) | Montreal | Jun 16 - 18, 2017 |
+|[CircleCityCon 2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-siqxRQBzDzSnAJUpnQmZs) | Indianapolis, IN, USA | Jun 9-11, 2017 |
 |[NorthSec 2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe) | Montreal, Canada | May 15 - 21, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) ([slides](https://2017.appsec.eu/slides-and-videos)) | Belfast, Northern Ireland | May 2-3, 2017 |
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
@@ -91,6 +92,7 @@ Conference | Location | Date
 |[2016 RMLL Security Track](https://rmll.ubicast.tv/channels/#2016-securite) ([slides](https://sec2016.rmll.info/files/)) | Paris, France | Jul 4 - 6, 2016 |
 |[Black Hat 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) | Las Vegas, NV, USA | Jul 30 - Aug 4, 2016 |
 |[AppSecEU 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) ([slides](https://2016.appsec.eu/?page_id=914)) | Rome, Italy | Jun 26 - 01, 2016 |
+|[CircleCityCon 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_fAztb-LmQapZiEM08cV-6) | Indianapolis, IN, USA | Jun 10-12, 2016 |
 |[HITBSecConf 2016](https://conference.hitb.org/hitbsecconf2016ams/materials/) | Amsterdam, Netherlands | May 23 - 27, 2016 |
 |[NorthSec 2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) | Montreal, Canada | May 17 - 22, 2016 |
 |[Positive HackDays VI](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzYUBqKQFJ7ZuZN0YxrY2AH) | Moscow, Russia | May 17-18, 2016 |
