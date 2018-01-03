@@ -15,6 +15,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[Chaos Communication Congress 2017 (34C3)](https://media.ccc.de/c/34c3) | Leipzig, Germany | Dec 27-30, 2017 |
 |[BlackHat Europe 2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB) | London, UK | Dec 4-7, 2017 |
 |ZeroNights 2017 (RU/EN [slides](https://2017.zeronights.ru/materials/)) | Moscow, Russia | Nov 16-17, 2017 |
 |[Hack.lu](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz) | Luxembourg | Oct 17 - 19, 2017 |
