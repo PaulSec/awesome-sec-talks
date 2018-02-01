@@ -210,6 +210,7 @@ Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2014 (31C3)](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2b99U-g1iPLclDCsmqJKB82)| Hamburg, Germany | Dec 27-30, 2014 |
 |[Botconf 2014](https://www.youtube.com/playlist?list=PL8fFmUArVzKi06Ad5VFihn0csUwZ3xEGG) | Nancy, France | Dec 3-5, 2014 |
+|NoSuchCon 2014 ([slides](http://www.nosuchcon.org/talks/2014/)) | Paris, France | Nov 19-21, 2014 |
 |[Hackfest 2014](https://www.youtube.com/playlist?list=PLaXanmjyAPzH5atgS2urpAW1-dv85_M4A) | Quebec city, Canada | Nov. 6/7, 2014 |
 |[LASCON 2014](https://www.youtube.com/playlist?list=PLLWzQe8KOh5k0FGZjVQJpE0eetc9kwaNP) | Austin, TX | Oct 23-24, 2014 |
 |Ruxcon 2014 ([slides](http://2014.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 11-12, 2014 |
