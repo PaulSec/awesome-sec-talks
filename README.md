@@ -11,6 +11,12 @@ A curated list of awesome Security talks
 
 *Incoming, as soon as con videos are out, push them here!*
 
+## 2018
+
+Conference | Location | Date
+--- | --- | ---
+|Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
+
 ## 2017
 
 Conference | Location | Date
