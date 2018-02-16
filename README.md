@@ -108,6 +108,7 @@ Conference | Location | Date
 |[NorthSec 2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) | Montreal, Canada | May 17 - 22, 2016 |
 |[Positive HackDays VI](https://www.youtube.com/playlist?list=PLEl1NAXHTFNzYUBqKQFJ7ZuZN0YxrY2AH) | Moscow, Russia | May 17-18, 2016 |
 |[BSidesCincy 2016](https://www.youtube.com/playlist?list=PLrwRJhfJmJRjDYmKTU9DY7XsG09QOBhwl) | Cincinnati, OH-KY-IN, USA | May 21, 2016 |
+|[dotSecurity](https://www.dotconferences.com/conference/dotsecurity-2016) | Paris, France | Apr 22, 2016 |
 |[BSides Nashville 2016](http://www.irongeek.com/i.php?page=videos/bsidesnashville2016/mainlist) | Nashville, TN  | Apr 16, 2016 |
 |[Central Ohio ISSA 2016](http://www.irongeek.com/i.php?page=videos/centralohioinfosec2016/mainlist) | Columbus, Ohio  | Mar 31, 2016 |
 |[Black Hat Asia 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsWLd417eaJNy7CCEDyA53Pz) | Singapore | Mar 29 - Apr 1, 2016 |
