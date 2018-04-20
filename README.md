@@ -50,6 +50,7 @@ Conference | Location | Date
 |[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
 |[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
 |[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
+|[BSides Boston](https://www.youtube.com/channel/UCU03OcR9FzCUTc2V1OYLZqg) | Boston, MA | April 14-15, 2017 |
 |[BSides AIDE](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Charleston, WV | Apr 3-7, 2017 |
 |[Cyphercon 2.0](http://www.irongeek.com/i.php?page=videos/cyphercon2/mainlist) | MILWAUKEE, WI | Mar 30-31, 2017 |
 |[Black Hat Asia 2017](https://www.youtube.com/watch?v=s95CQNntunQ&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS) ([slides](https://www.blackhat.com/asia-17/briefings.html)) | Marina Bay Sands, Singapore | March 28-31, 2017 |
