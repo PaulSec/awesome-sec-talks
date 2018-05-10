@@ -15,6 +15,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
+|[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 | 
 |Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
 
 ## 2017
