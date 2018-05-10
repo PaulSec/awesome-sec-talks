@@ -28,6 +28,7 @@ Conference | Location | Date
 |[Wild West Hacking Fest](https://www.youtube.com/playlist?list=PLXF21PFPPXTOwoXWKlCJDMvEAUNoVLtnR) | Deadwood, USA | Oct 24-28, 2017 |
 |[ShellCon](https://www.youtube.com/playlist?list=PL7D3STHEa66R0nWbixrTo3O7haiMmA71T) | Los Angeles, USA | Oct 19, 2017 |
 |[Hack.lu](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz) | Luxembourg | Oct 17 - 19, 2017 |
+|[HackIT 2017](https://www.youtube.com/playlist?list=PLxRWg8ULebmwAZzzYyY23SPAV_Y0S_9DV) (RU/EN [slides](https://www.slideshare.net/HackIT-ukraine/presentations)) | Kyiv, Ukraine | Oct 7, 2017 |
 |[BruCON 0x09](https://www.youtube.com/playlist?list=PLtb1FJdVWjUencZ-SBtamJiwB7zc_IlgU) ([slides](http://files.brucon.org/2017/)) | Gent | Oct 2 - 4, 2017 |
 |[BSides Augusta 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Augusta, USA | Sep 16, 2017 |
 |[R2Con 2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S) ([slides](https://github.com/radareorg/r2con-2017)) | Barcelona | Sep 6 - 9, 2017 |
@@ -89,6 +90,7 @@ Conference | Location | Date
 |Ruxcon 2016 ([slides](http://2016.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 22-23, 2016 |
 |[DevSecCon London 2016](http://www.devseccon.com/london-2016/london-2016-videos/) | London, UK | Oct 20, 2016 |
 |[AppSecUSA 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) | Washington DC | Oct 11 - 14, 2016 |
+|[HackIT 2016](https://www.youtube.com/playlist?list=PLxRWg8ULebmzPnxjryZTcf6SS6TIK5vwV) (RU/EN [slides](https://www.slideshare.net/HackIT-ukraine/presentations)) | Kharkiv, Ukraine | Oct 7, 2016 |
 |[GrrCON 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm88_x7IQKSFzhtp9ileHB72) | Grand Rapids, MI | Oct 06 - 07, 2016 |
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
 |[44Con 2016](https://vimeo.com/ondemand/44con2016/) | London,UK | Sep 14 - 16, 2016 |
@@ -122,6 +124,7 @@ Conference | Location | Date
 |[BSides Indy 2016](http://www.irongeek.com/i.php?page=videos/bsidesindy2016/mainlist) | Indianapolis, IN  | Feb 21, 2016 |
 |[BSides Huntsville 2016](http://www.irongeek.com/i.php?page=videos/bsideshuntsville2016/mainlist) | Hunstville, AL | Feb 06, 2016 |
 |[USENIX Enigma Conference 2016](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw) | San Francisco, CA | Jan 25-27, 2016 |
+|[HackIT 2015](https://www.youtube.com/playlist?list=PLxRWg8ULebmzT4O36FwxCXr9dilrQD2h0) (RU/EN [slides](https://www.slideshare.net/HackIT-ukraine/presentations)) | Kharkiv, Ukraine | Sep 23, 2015 |
 |[OWASP AppSec California 2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8fNc1gwXz4SXKTRB4yZB5v) | Santa Monica, CA | Jan 25-27, 2016 |
 |[BSides Columbus 2016](https://www.irongeek.com/i.php?page=videos/bsidescolumbus2016/mainlist) | Columbus, OH | Jan 18, 2016 |
 |[Shmoocon 2016](https://archive.org/details/shmoocon-2016) | Washington, DC | Jan 15, 2016 |
