@@ -17,6 +17,7 @@ Conference | Location | Date
 --- | --- | ---
 |[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 | 
 |Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
+| DefCon 26 ([slides](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/)) | Vegas, USA | Aug 9-12, 2018 | 
 
 ## 2017
 
