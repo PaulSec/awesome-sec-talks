@@ -15,38 +15,38 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-| [OWASP BeNeLux Day](https://administraitor.video/edition/OWASP BeNeLux Day/2018) | (To fill in) | 2018-11-30 |
-| [BSides Lisbon](https://administraitor.video/edition/BSides Lisbon/2018) | (To fill in) | 2018-11-29 |
-| [Hack In The Box Dubai](https://administraitor.video/edition/Hack In The Box Dubai/2018) | (To fill in) | 2018-11-27 |
-| [BSides Dubai](https://administraitor.video/edition/BSides Dubai/2018) | (To fill in) | 2018-11-27 |
+| [OWASP BeNeLux Day](https://administraitor.video/edition/OWASP+BeNeLux+Day/2018) | (To fill in) | 2018-11-30 |
+| [BSides Lisbon](https://administraitor.video/edition/BSides+Lisbon/2018) | (To fill in) | 2018-11-29 |
+| [Hack In The Box Dubai](https://administraitor.video/edition/Hack+In+The+Box+Dubai/2018) | (To fill in) | 2018-11-27 |
+| [BSides Dubai](https://administraitor.video/edition/BSides+Dubai/2018) | (To fill in) | 2018-11-27 |
 | [IRISSCON](https://administraitor.video/edition/IRISSCON/2018) | (To fill in) | 2018-11-22 |
 | [GreHack](https://administraitor.video/edition/GreHack/2018) | (To fill in) | 2018-11-16 |
-| [Black Alps](https://administraitor.video/edition/Black Alps/2018) | (To fill in) | 2018-11-08 |
-| [Pi And More](https://administraitor.video/edition/Pi And More/11) | (To fill in) | 2018-11-03 |
+| [Black Alps](https://administraitor.video/edition/Black+Alps/2018) | (To fill in) | 2018-11-08 |
+| [Pi And More](https://administraitor.video/edition/Pi+And+More/11) | (To fill in) | 2018-11-03 |
 | [PyCon.DE](https://administraitor.video/edition/PyCon.DE/2018) | (To fill in) | 2018-10-24 |
-| [BSides Luxembourg](https://administraitor.video/edition/BSides Luxembourg/2018) | (To fill in) | 2018-10-19 |
+| [BSides Luxembourg](https://administraitor.video/edition/BSides+Luxembourg/2018) | (To fill in) | 2018-10-19 |
 | [Hack.lu](https://administraitor.video/edition/Hack.lu/2018) | (To fill in) | 2018-10-16 |
-| [MISP Summit](https://administraitor.video/edition/MISP Summit/2018) | (To fill in) | 2018-10-15 |
-| [BSides Warsaw](https://administraitor.video/edition/BSides Warsaw/2018) | (To fill in) | 2018-10-12 |
-| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP NL Chapter Meetings/2018-09-27) | (To fill in) | 2018-09-27 |
-| [BSides Belfast](https://administraitor.video/edition/BSides Belfast/2018) | (To fill in) | 2018-09-27 |
+| [MISP Summit](https://administraitor.video/edition/MISP+Summit/2018) | (To fill in) | 2018-10-15 |
+| [BSides Warsaw](https://administraitor.video/edition/BSides+Warsaw/2018) | (To fill in) | 2018-10-12 |
+| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP+NL+Chapter+Meetings/2018-09-27) | (To fill in) | 2018-09-27 |
+| [BSides Belfast](https://administraitor.video/edition/BSides+Belfast/2018) | (To fill in) | 2018-09-27 |
 | [Hardwear.io](https://administraitor.video/edition/Hardwear.io/2018) | (To fill in) | 2018-09-13 |
-| [Hack In The Box GSec](https://administraitor.video/edition/Hack In The Box GSec/2018) | (To fill in) | 2018-08-30 |
-| [BSides Manchester](https://administraitor.video/edition/BSides Manchester/2018) | (To fill in) | 2018-08-16 |
+| [Hack In The Box GSec](https://administraitor.video/edition/Hack+In+The+Box+GSec/2018) | (To fill in) | 2018-08-30 |
+| [BSides Manchester](https://administraitor.video/edition/BSides+Manchester/2018) | (To fill in) | 2018-08-16 |
 | [Haxogreen](https://administraitor.video/edition/Haxogreen/2018) | (To fill in) | 2018-07-28 |
 | [SteelCon](https://administraitor.video/edition/SteelCon/2018) | (To fill in) | 2018-07-07 |
-| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP NL Chapter Meetings/2018-06-28) | (To fill in) | 2018-06-28 |
+| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP+NL+Chapter+Meetings/2018-06-28) | (To fill in) | 2018-06-28 |
 | [Area41](https://administraitor.video/edition/Area41/2018) | (To fill in) | 2018-06-15 |
 | [TurkuSec](https://administraitor.video/edition/TurkuSec/2018) | (To fill in) | 2018-05-24 |
 | [Securi-Tay](https://administraitor.video/edition/Securi-Tay/2018) | (To fill in) | 2018-05-18 |
-| [BSides Scotland](https://administraitor.video/edition/BSides Scotland/2018) | (To fill in) | 2018-04-27 |
-| [Hack In The Box Amsterdam](https://administraitor.video/edition/Hack In The Box Amsterdam/2018) | (To fill in) | 2018-04-12 |
-| [BSides Munich](https://administraitor.video/edition/BSides Munich/2018) | (To fill in) | 2018-04-09 |
+| [BSides Scotland](https://administraitor.video/edition/BSides+Scotland/2018) | (To fill in) | 2018-04-27 |
+| [Hack In The Box Amsterdam](https://administraitor.video/edition/Hack+In+The+Box+Amsterdam/2018) | (To fill in) | 2018-04-12 |
+| [BSides Munich](https://administraitor.video/edition/BSides+Munich/2018) | (To fill in) | 2018-04-09 |
 | [Insomni'hack](https://administraitor.video/edition/Insomni'hack/2018) | (To fill in) | 2018-03-22 |
-| [BSides Ljubljana](https://administraitor.video/edition/BSides Ljubljana/0x7E2) | (To fill in) | 2018-03-10 |
+| [BSides Ljubljana](https://administraitor.video/edition/BSides+Ljubljana/0x7E2) | (To fill in) | 2018-03-10 |
 | [Nullcon](https://administraitor.video/edition/Nullcon/9) | (To fill in) | 2018-03-01 |
-| [Pi And More](https://administraitor.video/edition/Pi And More/10½) | (To fill in) | 2018-02-24 |
-| [BSides Leeds](https://administraitor.video/edition/BSides Leeds/2018) | (To fill in) | 2018-01-26 |
+| [Pi And More](https://administraitor.video/edition/Pi+And+More/10½) | (To fill in) | 2018-02-24 |
+| [BSides Leeds](https://administraitor.video/edition/BSides+Leeds/2018) | (To fill in) | 2018-01-26 |
 |[NAVAJA NEGRA CONFERENCE](https://www.youtube.com/channel/UCdPXW0LcFUEOdj9ROkZMp4w) | Spain | October 6th, 2018 |
 |[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 |
 |Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
