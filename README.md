@@ -36,7 +36,7 @@ Conference | Location | Date
 |[BSides Amsterdam 2017](https://www.youtube.com/watch?v=wKgVdYKkhIY&list=PLEJJRQNh3v_PQEsZ8R7H6xKe9Bkg_KnVC) | Amsterdam | Sep 1-2, 2017 |
 |HITCON 2017 ([slides](https://hitcon.org/2017/CMT/agenda)) | Taiwan, TW | Aug 25-26, 2017 |
 |HiTB 2017 ([slides](http://gsec.hitb.org/materials/sg2017/)) | Singapore | Aug 21-27, 2017 |
-|[Sha2017](https://media.ccc.de/c/SHA2017) | Online | Aug 4 - 8, 2017 |
+|[SHA2017](https://media.ccc.de/c/SHA2017) | Zeewolde, the Netherlands | Aug 4 - 8, 2017 |
 |DefCon 25 ([slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)) | Vegas, USA | July 27-30, 2017 |
 |[Black Hat 2017](https://www.youtube.com/watch?v=YJOMTAREFtY&list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd) ([slides](https://www.blackhat.com/us-17/briefings.html)) | Las Vegas | Jul 22 - 27, 2017 |
 |[Recon 2017](https://recon.cx/2017/montreal/recordings/) ([slides](https://recon.cx/2017/montreal/slides/)) | Montreal, Canada | Jun 16-16, 2017 |
