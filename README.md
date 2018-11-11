@@ -15,7 +15,7 @@ A curated list of awesome Security talks
 
 Conference | Location | Date
 --- | --- | ---
-|[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 | 
+|[RSA Conference 2018](https://www.rsaconference.com/videos?conference=25&keywords=&page=1) | San Francisco, USA | March 4-8, 2018 |
 |Recon Brussels ([slides](https://recon.cx/2018/brussels/slides/)) | Brussels, Belgium | Feb 2-4, 2018 |
 
 ## 2017
@@ -31,6 +31,7 @@ Conference | Location | Date
 |[HackIT 2017](https://www.youtube.com/playlist?list=PLxRWg8ULebmwAZzzYyY23SPAV_Y0S_9DV) (RU/EN [slides](https://www.slideshare.net/HackIT-ukraine/presentations)) | Kyiv, Ukraine | Oct 7, 2017 |
 |[BruCON 0x09](https://www.youtube.com/playlist?list=PLtb1FJdVWjUencZ-SBtamJiwB7zc_IlgU) ([slides](http://files.brucon.org/2017/)) | Gent | Oct 2 - 4, 2017 |
 |[BSides Augusta 2017](https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB) | Augusta, USA | Sep 16, 2017 |
+|[BalCCon 2017 (2k17)](https://www.youtube.com/watch?v=CHtllIi8zKw&list=PLyHRd2YK1T4wrBlx1LQBVtkP5qtITDkJr) | Novi Sad, Vojvodina, Serbia |Sep 15-17, 2017 |
 |[R2Con 2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S) ([slides](https://github.com/radareorg/r2con-2017)) | Barcelona | Sep 6 - 9, 2017 |
 |[BSides Amsterdam 2017](https://www.youtube.com/watch?v=wKgVdYKkhIY&list=PLEJJRQNh3v_PQEsZ8R7H6xKe9Bkg_KnVC) | Amsterdam | Sep 1-2, 2017 |
 |HITCON 2017 ([slides](https://hitcon.org/2017/CMT/agenda)) | Taiwan, TW | Aug 25-26, 2017 |
@@ -95,6 +96,7 @@ Conference | Location | Date
 |[DerbyCon 6.0](http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist) | Louisville, KY | Sep 23 - 25, 2016 |
 |[44Con 2016](https://vimeo.com/ondemand/44con2016/) | London,UK | Sep 14 - 16, 2016 |
 |[FSec 2016](https://www.youtube.com/playlist?list=PL091tVBWhjdRWx-ifdfpEh_r7F4ZgPmj4) | Varaždin, Croatia | Sep 14 - 15, 2016 |
+|[BalCCon 2016 (2k16)](https://www.youtube.com/watch?v=DqP0qKduTNI&list=PLyHRd2YK1T4wDxHtYcruSlzS3o0tiZ2W) | Novi Sad, Vojvodina, Serbia |Sep 09-11, 2016 |
 |[R2Con](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU) | Barcelona, Spain | Sep 8 - 10, 2016 |
 |[BSides Augusta 2016](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj) | Augusta, GA | Sep 10, 2016 |
 |[Security Onion 2016](https://www.youtube.com/playlist?list=PLljFlTO9rB15Tve-LhV5k_5_0HH37eALe) | Augusta, GA | Sep 09, 2016 |
@@ -181,7 +183,7 @@ Conference | Location | Date
 |[BSidesLV 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_wpMC42BKPCknT-JhnZGos) | Las Vegas, NV, USA | Aug 4-5, 2015 |
 |[BSidesCincy 2015](https://www.youtube.com/playlist?list=PLFvh_k-n27CnvMIYBLGAjQ7ekaC10t9y4) | Cincinnati, OH-KY-IN, USA | July 25, 2015 |
 |[BSides Detroit 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm97gwg__BfWirG5NnkAAENL) | Detroit, MI, USA | July 16-18, 2015 |
-|[2015 RMLL Security Track](https://rmll.ubicast.tv/channels/#securite__) ([slides](https://2015.rmll.info/spip.php?page=rmll_progall&t=160&lang=en)) | Beauvais, France | July 6 - 8, 2015 | 
+|[2015 RMLL Security Track](https://rmll.ubicast.tv/channels/#securite__) ([slides](https://2015.rmll.info/spip.php?page=rmll_progall&t=160&lang=en)) | Beauvais, France | July 6 - 8, 2015 |
 |[SteelCon 2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) | Sheffield, UK | Jul 3-5, 2015 |
 |[BSides Cleveland 2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm87UHyX3fVU_NnSRjM8CUUw) | Cleveland, OH, USA | Jun 20, 2015 |
 |[REcon 2015](https://recon.cx/2015/recordings/) | Montreal, Canada | Jun 19-21, 2015 |
@@ -229,7 +231,7 @@ Conference | Location | Date
 |Ruxcon 2014 ([slides](http://2014.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 11-12, 2014 |
 |[44CON 2014](https://vimeo.com/album/3070225) | London,UK | Sep 10 - 12, 2014 |
 |[FrOSCon 9](https://media.ccc.de/c/froscon2014) | Sankt Augustin, Germany | Aug 23/24, 2014 |
-|[2014 RMLL Security Track](https://rmll.ubicast.tv/channels/#securite_) ([slides](https://2014.rmll.info/theme26?lang=en)) | Montpellier, France | Jul 7 - 9, 2014 | 
+|[2014 RMLL Security Track](https://rmll.ubicast.tv/channels/#securite_) ([slides](https://2014.rmll.info/theme26?lang=en)) | Montpellier, France | Jul 7 - 9, 2014 |
 |[BSides Manchester 2014](https://www.youtube.com/playlist?list=PLcgqQkap1lNqshXNFLodW959hNipK7Px2) | Manchester, UK | Jun 27-28, 2014 |
 |[BSidesCincy 2014](https://www.youtube.com/playlist?list=PLpAqWs_9UQkvsUhUy0fYxhwPB7am3FGMU) | Cincinnati, OH-KY-IN, USA | May 17, 2014 |
 |[Code Blue 2014](https://www.youtube.com/playlist?list=PL-XyPQsyOrNH6yjMad_XNH4Bo-I133jag) | Tokyo, Japan | Dec 18-19 2014 |
@@ -239,7 +241,7 @@ Conference | Location | Date
 --- | --- | ---
 |[Chaos Communication Congress 2013 (30C3)](https://media.ccc.de/c/30c3) | Hamburg, Germany | Dec 27-30, 2014 |
 |Ruxcon 2013 ([slides](http://2013.ruxcon.org.au/slides/)) | Melbourne, AU | Oct 26-27, 2013 |
-|[2013 RMLL Security Track](https://rmll.ubicast.tv/channels/#2013-technique-securite) ([slides](https://schedule2013.rmll.info/spip.php?page=rmll_progall&lang=en&t=23)) | Brussels, Belgium | Jul 8 - 10, 2013 | 
+|[2013 RMLL Security Track](https://rmll.ubicast.tv/channels/#2013-technique-securite) ([slides](https://schedule2013.rmll.info/spip.php?page=rmll_progall&lang=en&t=23)) | Brussels, Belgium | Jul 8 - 10, 2013 |
 |[Code Blue 2013](https://www.youtube.com/playlist?list=PL-XyPQsyOrNFzTh7UGhzaRw5s3634z0YZ) | Tokyo, Japan | Feb 17-18 2014 |
 |[BSides Raleigh 2013](https://www.youtube.com/watch?v=EpS-ks1vf9A&list=PLTOzjw9-RQ72F83cpmN73TlTqTLmIC73M) | Raleigh, NC | October 17, 2013 |
 ## 2012
