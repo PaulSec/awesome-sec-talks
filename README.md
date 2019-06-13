@@ -30,6 +30,7 @@ Conference | Location | Date
 | [BSides Warsaw](https://administraitor.video/edition/BSides+Warsaw/2018) | (To fill in) | 2018-10-12 |
 | [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP+NL+Chapter+Meetings/2018-09-27) | (To fill in) | 2018-09-27 |
 | [BSides Belfast](https://administraitor.video/edition/BSides+Belfast/2018) | (To fill in) | 2018-09-27 |
+| [BalCCon 2018 (2k18)](https://www.youtube.com/watch?v=R30DSJKszeM&list=PLyHRd2YK1T4wwdG_skqRgAHENsqLTjJoR) | Novi Sad, Vojvodina, Serbia | Sep 14-16, 2018 |
 | [Hardwear.io](https://administraitor.video/edition/Hardwear.io/2018) | (To fill in) | 2018-09-13 |
 | [Hack In The Box GSec](https://administraitor.video/edition/Hack+In+The+Box+GSec/2018) | (To fill in) | 2018-08-30 |
 | [BSides Manchester](https://administraitor.video/edition/BSides+Manchester/2018) | (To fill in) | 2018-08-16 |
