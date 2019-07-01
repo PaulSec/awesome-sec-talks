@@ -11,6 +11,12 @@ A curated list of awesome Security talks
 
 *Incoming, as soon as con videos are out, push them here!*
 
+## 2019
+Conference | Location | Date
+--- | --- | ---
+| [RuhrSec 2019 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyUPEUZnvu-cWcgHfiBHQ8H) | Bochum, Germany | May 28-29, 2019 |
+| [RuhrSec 2019 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxx4DHwYYZ-Kfnk4uDLGUcx) | Bochum, Germany | May 28-29, 2019 |
+
 ## 2018
 
 Conference | Location | Date
@@ -40,6 +46,8 @@ Conference | Location | Date
 | [Area41](https://administraitor.video/edition/Area41/2018) | (To fill in) | 2018-06-15 |
 | [TurkuSec](https://administraitor.video/edition/TurkuSec/2018) | (To fill in) | 2018-05-24 |
 | [Securi-Tay](https://administraitor.video/edition/Securi-Tay/2018) | (To fill in) | 2018-05-18 |
+| [RuhrSec 2018 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGzNPUVQa7PLfLz3eC6EaqC9) | Bochum, Germany | May 17-18, 2018 |
+| [RuhrSec 2018 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxVOEGpyVzgDUgxZqCoTf2F) | Bochum, Germany | May 17-18, 2018 |
 | [BSides Scotland](https://administraitor.video/edition/BSides+Scotland/2018) | (To fill in) | 2018-04-27 |
 | [Hack In The Box Amsterdam](https://administraitor.video/edition/Hack+In+The+Box+Amsterdam/2018) | (To fill in) | 2018-04-12 |
 | [BSides Munich](https://administraitor.video/edition/BSides+Munich/2018) | (To fill in) | 2018-04-09 |
@@ -84,8 +92,8 @@ Conference | Location | Date
 |[CircleCityCon 2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-siqxRQBzDzSnAJUpnQmZs) | Indianapolis, IN, USA | Jun 9-11, 2017 |
 |[NorthSec 2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe) | Montreal, Canada | May 15 - 21, 2017 |
 |[AppSecEU 2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp) ([slides](https://2017.appsec.eu/slides-and-videos)) | Belfast, Northern Ireland | May 2-3, 2017 |
-|[RuhrSec Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
-|[RuhrSec Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
+|[RuhrSec 2017 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyVsuOhgE4n4sOMwIXEUjgP) | Bochum, Germany | May 2-3, 2017 |
+|[RuhrSec 2017 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxcXjY9gGY4j_fgm8pRsXSl) | Bochum, Germany | May 2-3, 2017 |
 |[BSides Nashville](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Nashville, TN | Apr 22, 2017 |
 |[BSides Boston](https://www.youtube.com/channel/UCU03OcR9FzCUTc2V1OYLZqg) | Boston, MA | April 14-15, 2017 |
 |[BSides AIDE](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/mainlist) | Charleston, WV | Apr 3-7, 2017 |
