@@ -21,21 +21,21 @@ Conference | Location | Date
 
 Conference | Location | Date
 --- | --- | ---
-| [OWASP BeNeLux Day](https://administraitor.video/edition/OWASP+BeNeLux+Day/2018) | (To fill in) | 2018-11-30 |
-| [BSides Lisbon](https://administraitor.video/edition/BSides+Lisbon/2018) | (To fill in) | 2018-11-29 |
-| [Hack In The Box Dubai](https://administraitor.video/edition/Hack+In+The+Box+Dubai/2018) | (To fill in) | 2018-11-27 |
-| [BSides Dubai](https://administraitor.video/edition/BSides+Dubai/2018) | (To fill in) | 2018-11-27 |
-| [IRISSCON](https://administraitor.video/edition/IRISSCON/2018) | (To fill in) | 2018-11-22 |
-| [GreHack](https://administraitor.video/edition/GreHack/2018) | (To fill in) | 2018-11-16 |
-| [Black Alps](https://administraitor.video/edition/Black+Alps/2018) | (To fill in) | 2018-11-08 |
-| [Pi And More](https://administraitor.video/edition/Pi+And+More/11) | (To fill in) | 2018-11-03 |
-| [PyCon.DE](https://administraitor.video/edition/PyCon.DE/2018) | (To fill in) | 2018-10-24 |
-| [BSides Luxembourg](https://administraitor.video/edition/BSides+Luxembourg/2018) | (To fill in) | 2018-10-19 |
-| [Hack.lu](https://administraitor.video/edition/Hack.lu/2018) | (To fill in) | 2018-10-16 |
-| [MISP Summit](https://administraitor.video/edition/MISP+Summit/2018) | (To fill in) | 2018-10-15 |
-| [BSides Warsaw](https://administraitor.video/edition/BSides+Warsaw/2018) | (To fill in) | 2018-10-12 |
-| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP+NL+Chapter+Meetings/2018-09-27) | (To fill in) | 2018-09-27 |
-| [BSides Belfast](https://administraitor.video/edition/BSides+Belfast/2018) | (To fill in) | 2018-09-27 |
+| [OWASP BeNeLux Day](https://administraitor.video/edition/OWASP+BeNeLux+Day/2018) | Mechelen, Belgium | 2018-11-30 |
+| [BSides Lisbon](https://administraitor.video/edition/BSides+Lisbon/2018) | Lisbon, Portugal | 2018-11-29 |
+| [Hack In The Box Dubai](https://administraitor.video/edition/Hack+In+The+Box+Dubai/2018) | Dubai, United Arab Emirates | 2018-11-27 |
+| [BSides Dubai](https://administraitor.video/edition/BSides+Dubai/2018) | Dubai, United Arab Emirates | 2018-11-27 |
+| [IRISSCON](https://administraitor.video/edition/IRISSCON/2018) | Dublin, Ireland | 2018-11-22 |
+| [GreHack](https://administraitor.video/edition/GreHack/2018) | Grenoble, France | 2018-11-16 |
+| [Black Alps](https://administraitor.video/edition/Black+Alps/2018) | Yverdon-les-Bains, Switzerland | 2018-11-08 |
+| [Pi And More](https://administraitor.video/edition/Pi+And+More/11) | Universität Trier, Germany | 2018-11-03 |
+| [PyCon.DE](https://administraitor.video/edition/PyCon.DE/2018) | Karlsruhe, Germany | 2018-10-24 |
+| [BSides Luxembourg](https://administraitor.video/edition/BSides+Luxembourg/2018) | Luxembourg | 2018-10-19 |
+| [Hack.lu](https://administraitor.video/edition/Hack.lu/2018) | Luxembourg | 2018-10-16 |
+| [MISP Summit](https://administraitor.video/edition/MISP+Summit/2018) | Luxembourg | 2018-10-15 |
+| [BSides Warsaw](https://administraitor.video/edition/BSides+Warsaw/2018) | Warsaw, Poland | 2018-10-12 |
+| [OWASP NL Chapter Meetings](https://administraitor.video/edition/OWASP+NL+Chapter+Meetings/2018-09-27) | Nijmegen, The Netherlands | 2018-09-27 |
+| [BSides Belfast](https://administraitor.video/edition/BSides+Belfast/2018) | Belfast, Northern Ireland | 2018-09-27 |
 | [BalCCon 2018 (2k18)](https://www.youtube.com/watch?v=R30DSJKszeM&list=PLyHRd2YK1T4wwdG_skqRgAHENsqLTjJoR) | Novi Sad, Vojvodina, Serbia | Sep 14-16, 2018 |
 | [Hardwear.io](https://administraitor.video/edition/Hardwear.io/2018) | (To fill in) | 2018-09-13 |
 | [Hack In The Box GSec](https://administraitor.video/edition/Hack+In+The+Box+GSec/2018) | (To fill in) | 2018-08-30 |
