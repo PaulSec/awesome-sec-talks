@@ -15,6 +15,7 @@ A curated list of awesome Security talks
 Conference | Location | Date
 --- | --- | ---
 | [Hack Lu](https://administraitor.video/edition/Hack.lu/2019) | Luxembourg, Luxembourg | October 22-24, 2019 |
+| [BalCCon 2019 (2k19) ](https://www.youtube.com/playlist?list=PLyHRd2YK1T4x0NPjX_uZ32w5EqqOxcZoB) | Novi Sad, Vojvodina, Serbia | Sep 13-15, 2019 |
 | [DEF CON 27](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA4qJEQQyXDYtTIfxCNA0wB) | Vegas, USA | August 8-10, 2019 |
 | [RuhrSec 2019 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyUPEUZnvu-cWcgHfiBHQ8H) | Bochum, Germany | May 28-29, 2019 |
 | [RuhrSec 2019 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxx4DHwYYZ-Kfnk4uDLGUcx) | Bochum, Germany | May 28-29, 2019 |
