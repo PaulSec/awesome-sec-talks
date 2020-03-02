@@ -11,6 +11,12 @@ A curated list of awesome Security talks
 
 *Incoming, as soon as con videos are out, push them here!*
 
+## 2020
+Conference | Location | Date
+--- | --- | ---
+| [RSAC](https://www.rsaconference.com/industry-topics/video?searchSort=date-desc) | San Francisco, USA | February 24-28, 2020 |
+
+
 ## 2019
 Conference | Location | Date
 --- | --- | ---
