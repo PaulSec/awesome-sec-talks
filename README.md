@@ -312,6 +312,7 @@ Conference | Location | Date
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
 * [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
+* [Cyber Security - Do's and Dont's to Protect Yourself Online | Rakshit Tandon](https://youtu.be/lz0d3KSrLTE)
 
 ## Contributing
 
