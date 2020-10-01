@@ -312,6 +312,7 @@ Conference | Location | Date
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
 * [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
+* [Talking About bugBounty](https://youtu.be/5eV6rMG6q6Q)
 
 ## Contributing
 
