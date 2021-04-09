@@ -14,6 +14,8 @@ A curated list of awesome Security talks
 ## 2020
 Conference | Location | Date
 --- | --- | ---
+| [Bsides Tampa](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-yD8mrM2dnP1dxrIMThfTe) | Tampa, USA | June 25, 2020 |
+| [Bsides SF](https://www.youtube.com/watch?v=QBQXfOUahz4&list=PLbZzXF2qC3RvlcHIxrqrsN1XhwHX8SQ-g) | San Francisco, USA | Mar 9, 2020 |
 | [RSAC](https://www.youtube.com/playlist?list=PLeUGLKUYzh_ixxt6PoRiWoJsoGtS-JmKR) | San Francisco, USA | February 24-28, 2020 |
 
 
