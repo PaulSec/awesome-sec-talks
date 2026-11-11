@@ -11,6 +11,90 @@ A curated list of awesome Security talks
 
 *Incoming, as soon as con videos are out, push them here!*
 
+## 2026
+Conference | Location | Date
+--- | --- | ---
+| [DEF CON 34](https://www.youtube.com/playlist?list=PLHNz-wMcmx0g) | Las Vegas, USA | August 6-9, 2026 |
+| [2026 Cyber Threat Intelligence Conference](https://www.youtube.com/playlist?list=PLBAUUhONOrO8F9hElQsT1pMa-VuAPp4QH) | Munich, Germany | April 2026 |
+
+## 2025
+Conference | Location | Date
+--- | --- | ---
+| [Black Hat Europe 2025](https://www.youtube.com/playlist?list=PLH15HpR5qRsWwc5RANR9knvWpotKVXPWm) | London, UK | December 2025 |
+| [CODE BLUE 2025](https://www.youtube.com/playlist?list=PL-XyPQsyOrNHDEHxQtQ5u1XMj-huIdfTY) | Tokyo, Japan | November 2025 |
+| [Ekoparty 2025](https://www.youtube.com/playlist?list=PLaIv9WEAzYZNHzGuB4F8i-dfYhQmwLB4e) | Buenos Aires, Argentina | November 2025 |
+| [OWASP Global AppSec USA 2025](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K) | Washington, DC, USA | November 2025 |
+| [Wild West Hackin' Fest Deadwood 2025](https://www.youtube.com/playlist?list=PLXF21PFPPXTOcJFd7jPnu_QIA4la3JQjF) | Deadwood, USA | October 2025 |
+| [BalCCon2k25](https://www.youtube.com/playlist?list=PLyHRd2YK1T4ybaw-JSVzHydv_a18LFiTe) | Novi Sad, Serbia | September 2025 |
+| [Black Hat USA 2025](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtV3t9TlkRZBmIfcIC6THE) | Las Vegas, USA | August 2025 |
+| [DEF CON 33](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBB9HANwjaTlKFuVhRxkdz2) | Las Vegas, USA | August 8-10, 2025 |
+| [HITCON 2025](https://www.youtube.com/playlist?list=PLQcbOyDFl_bchZcYFk1aukDGWyt5JyyQx) | Taipei, Taiwan | August 2025 |
+| [37th Annual FIRST Conference](https://www.youtube.com/playlist?list=PLBAUUhONOrO81e07ErZclykFgacbncbSZ) | Copenhagen, Denmark | June 2025 |
+| [TROOPERS25](https://www.youtube.com/playlist?list=PL1eoQr97VfJmSBNAP-n5cs81ScoZ0lKrF) | Heidelberg, Germany | June 23-27, 2025 |
+| [Botconf 2025](https://www.youtube.com/playlist?list=PL8fFmUArVzKjMgBjO4EQ-O_7U8ok3C-06) | Angers, France | May 2025 |
+| [LayerOne 2025](https://www.youtube.com/playlist?list=PLa-neBkALhDR3Mw6AmCu9m3k-f0llamEf) | Pasadena, USA | May 2025 |
+| [NorthSec 2025](https://www.youtube.com/playlist?list=PLuUtcRxSUZUrW9scJZqhbiuTBwZBJ-Qic) | Montreal, Canada | May 2025 |
+| [RSA Conference 2025](https://www.youtube.com/playlist?list=PL5OdmBrO1Lpme_v5jSCgirHFbl8715Hjg) | San Francisco, USA | April 28-May 1, 2025 |
+| [BSidesSF 2025](https://www.youtube.com/playlist?list=PLbZzXF2qC3RueNOgyuRfRtZmcb6GfLECE) | San Francisco, USA | April 2025 |
+| [CypherCon 8.0](https://www.youtube.com/playlist?list=PLUC_sTnMl8NxN0cC_yximb44zS6M0cI8L) | Milwaukee, USA | April 2025 |
+| [Insomni'hack 2025](https://www.youtube.com/playlist?list=PLcAhMYXnWf9sNsPqsQxIxiW_o3k8hmXsH) | Lausanne, Switzerland | March 2025 |
+| [Nullcon Goa 2025](https://www.youtube.com/playlist?list=PLWv48qIcomCZ2I2RmxUXVV-QQIk8wZBfn) | Goa, India | March 2025 |
+
+## 2024
+Conference | Location | Date
+--- | --- | ---
+| [Black Hat Europe 2024](https://www.youtube.com/playlist?list=PLH15HpR5qRsXx69nei1C1BMC5MdvZm12I) | London, UK | December 2024 |
+| [CODE BLUE 2024](https://www.youtube.com/playlist?list=PL-XyPQsyOrNGtEY1Xyb_niJEtkxFELGNK) | Tokyo, Japan | November 2024 |
+| [Ekoparty 2024](https://www.youtube.com/playlist?list=PLaIv9WEAzYZP0-nt3Ac2wIPxMQWKfkWWp) | Buenos Aires, Argentina | November 2024 |
+| [BalCCon2k24](https://www.youtube.com/playlist?list=PLyHRd2YK1T4wzTNWtb4tPaz52Vry6XxQ7) | Novi Sad, Serbia | September 2024 |
+| [OWASP Global AppSec San Francisco 2024](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9n8P_9RN9svUAxof2B89y5) | San Francisco, USA | September 2024 |
+| [Black Hat USA 2024](https://www.youtube.com/playlist?list=PLH15HpR5qRsUiLYPNSylDvlskvS_RSzee) | Las Vegas, USA | August 2024 |
+| [DEF CON 32](https://www.youtube.com/playlist?list=PL9fPq3eQfaaB2scbXRczwvjVH0ckX4bwt) | Las Vegas, USA | August 8-11, 2024 |
+| [Hack In The Box Security Conference (HITBSecConf)](https://www.youtube.com/playlist?list=PLmv8T5-GONwRKDKPh2N-I5pXn5nuN_V8o) | Bangkok, Thailand | August 2024 |
+| [36th Annual FIRST Conference](https://www.youtube.com/playlist?list=PLBAUUhONOrO_yBBGmJTFlr3ekKRE8SSLQ) | Fukuoka, Japan | June 2024 |
+| [AREA41 2024](https://www.youtube.com/playlist?list=PLv-PXy2JVviuQ5JtdyZFhp1LLgGHVI8hd) | Zurich, Switzerland | June 2024 |
+| [REcon 2024](https://www.youtube.com/playlist?list=PLcwesr-0gPLozUKhGOiiACc4LZ2rTLhBh) | Montreal, Canada | June 2024 |
+| [TROOPERS24](https://www.youtube.com/playlist?list=PL1eoQr97VfJlYX4dCDdvHk3QLJCEnKw6c) | Heidelberg, Germany | June 2024 |
+| [BSidesSF 2024](https://www.youtube.com/playlist?list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw) | San Francisco, USA | May 2024 |
+| [BlueHat IL 2024](https://www.youtube.com/playlist?list=PLnWGkkkDVeqilYrIUJpQBKbdnW8v_8bId) | Tel Aviv, Israel | May 2024 |
+
+## 2023
+Conference | Location | Date
+--- | --- | ---
+| [Black Hat Europe 2023](https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p) | London, UK | December 2023 |
+| [OWASP Global AppSec DC 2023](https://www.youtube.com/playlist?list=PLpr-xdpM8wG_3eyVQxB0oXqVJwlNKs85x) | Washington, DC, USA | November 2023 |
+| [RomHack 2023](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7hGRBjR4qUc8CmCEm_a27s) | Rome, Italy | September 2023 |
+| [SEC-T 2023](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) | Stockholm, Sweden | September 2023 |
+| [Black Hat USA 2023](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) | Las Vegas, USA | August 2023 |
+| [DEF CON 31](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDLMTtVZDqq4aoU97NhZFP9) | Las Vegas, USA | August 10-13, 2023 |
+| [35th Annual FIRST Conference](https://www.youtube.com/playlist?list=PLBAUUhONOrO9N0asZ-XF1ilKfdGgeSmyr) | Montreal, Canada | June 2023 |
+| [REcon 2023](https://www.youtube.com/playlist?list=PLcwesr-0gPLoW_8XOywYMFaf1HFMxIVN6) | Montreal, Canada | June 2023 |
+| [TROOPERS23](https://www.youtube.com/playlist?list=PL1eoQr97VfJnCtUube7SQIMD6x9TBKSsI) | Heidelberg, Germany | June 2023 |
+| [Black Hat Asia 2023](https://www.youtube.com/playlist?list=PLH15HpR5qRsVYkxRzpOFrQTjNGXuYVpis) | Singapore | May 2023 |
+| [RSA Conference 2023](https://www.youtube.com/playlist?list=PLeUGLKUYzh_gQBfJYoZdXWwDO_vX7EMno) | San Francisco, USA | May 2023 |
+| [Hack In The Box Security Conference (HITBSecConf)](https://www.youtube.com/playlist?list=PLmv8T5-GONwQPfMX6Jowygqje9QEDA3Mx) | Amsterdam, Netherlands | April 2023 |
+| [BlueHat 2023](https://www.youtube.com/playlist?list=PLXkmvDo4MfusWp9f7IHT9xAPCkN2ZSm2L) | Redmond, USA | February 2023 |
+| [OWASP Global AppSec Dublin 2023](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8479ud_l4W93WU5MP2bg78) | Dublin, Ireland | February 2023 |
+
+## 2022
+Conference | Location | Date
+--- | --- | ---
+| [Black Hat Europe 2022](https://www.youtube.com/playlist?list=PLH15HpR5qRsVY4gZPQrkdVBeR_BwNujGe) | London, UK | December 2022 |
+| [FIRST Cyber Threat Intelligence Symposium](https://www.youtube.com/playlist?list=PLBAUUhONOrO_RJVUf_0-BCvY_REqyQ763) | Berlin, Germany | November 2022 |
+| [OWASP Global AppSec San Francisco](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9m-ryMbyJD3Gw4Rp7EktCT) | San Francisco, USA | November 2022 |
+| [BruCON](https://www.youtube.com/playlist?list=PLtb1FJdVWjUcY29T0VcjWp6StdhcSXyDL) | Mechelen, Belgium | September 2022 |
+| [Black Hat USA 2022](https://www.youtube.com/playlist?list=PLH15HpR5qRsVKcKwvIl-AzGfRqKyx--zq) | Las Vegas, USA | August 2022 |
+| [Hack In The Box Security Conference (HITBSecConf)](https://www.youtube.com/playlist?list=PLmv8T5-GONwRu8F1SgdBjP6XydFJipKoa) | Singapore | August 2022 |
+| [SteelCon](https://www.youtube.com/playlist?list=PLmfJypsykTLV3lIDTiu_t3jVqhoksVe6D) | Sheffield, UK | July 2022 |
+| [BSides San Francisco](https://www.youtube.com/playlist?list=PLbZzXF2qC3RtbIyOKsjYzAN6rIjsKiZCt) | San Francisco, USA | June 2022 |
+| [Black Hat Asia](https://www.youtube.com/playlist?list=PLH15HpR5qRsW2vrD-6pHklASq8T_CPZBv) | Singapore | May 2022 |
+| [NorthSec](https://www.youtube.com/playlist?list=PLuUtcRxSUZUoPhqaMk0FLpSPKghk4fXGy) | Montreal, Canada | May 2022 |
+| [Nullcon Berlin](https://www.youtube.com/playlist?list=PLWv48qIcomCaVkSFaot_zOS-1Ok8Qw6nw) | Berlin, Germany | May 2022 |
+| [Wild West Hackin' Fest - Way West](https://www.youtube.com/playlist?list=PLXF21PFPPXTOuxiwHpTvAORwocfEKgRh0) | San Diego, USA | May 2022 |
+| [Botconf](https://www.youtube.com/playlist?list=PL8fFmUArVzKjQ6A1OLfN2nnob4KIz8aT-) | Nantes, France | April 2022 |
+| [CypherCon 5.3](https://www.youtube.com/playlist?list=PLUC_sTnMl8Nw16NShLuYwAO-KoP78YeMB) | Milwaukee, USA | April 2022 |
+| [Securi-Tay](https://www.youtube.com/playlist?list=PLqjUlpQ6EnBzeuNcI8rIpF245oy76gUZZ) | Dundee, UK | March 2022 |
+
 ## 2020
 Conference | Location | Date
 --- | --- | ---
@@ -315,6 +399,7 @@ Conference | Location | Date
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
 * [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
+* [Cyber Talks](https://cybertalks.org/) - Unofficial searchable archive of security conference talks, filterable by conference, topic, and speaker
 
 ## Contributing
 
