@@ -315,6 +315,7 @@ Conference | Location | Date
 * [Cyberwarfare & Computer Security Playlist](https://www.youtube.com/playlist?list=PLTmfTMRCZvynGaHqbvALoJ2hGJvKvCJ9V)
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
 * [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
+* [Vidert Conferences](https://conferences.vidert.com/) – Black Hat and DEF CON talks, browsable by conference, year, speaker and tag.
 
 ## Contributing
 
